@@ -70,6 +70,13 @@ hr {
   font-size: 0.95rem;
 }
 
+.site-contact {
+  margin: 6px 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+}
+
 /* ---------- Nav ---------- */
 
 .site-nav {
@@ -166,6 +173,24 @@ main#app { min-height: 50vh; }
   padding: 14px 18px;
   margin-bottom: 22px;
   font-size: 0.97rem;
+}
+
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 22px;
+}
+
+.photo-row img {
+  border: 1px solid var(--line);
+  padding: 3px;
+  background: #fff;
+  height: 220px;
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 table.course-table {

@@ -48,6 +48,11 @@
   function renderHome() {
     buildNav(null);
     var html = "";
+    html += '<div class="photo-row">' +
+      '<img src="images/family/mamimonique-baking.jpg" alt="Mamimonique baking with her grandchildren">' +
+      '<img src="images/family/family-dock.jpg" alt="Mamimonique with her daughters and granddaughter">' +
+      '<img src="images/family/family-group.jpg" alt="Mamimonique and family">' +
+    "</div>";
     html += '<div class="intro-box">A collection of Mamimonique’s recipes, handwritten and otherwise, with the French kept as she wrote it and an English translation alongside. Browse by course below, or search for something specific.</div>';
     html += '<h2 class="page-title">Recipes by Course</h2>';
     html += '<table class="course-table"><tbody>';
