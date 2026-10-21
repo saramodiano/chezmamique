@@ -19,6 +19,21 @@
   var recipeBySlug = {};
   RECIPES.forEach(function (r) { recipeBySlug[r.slug] = r; });
 
+  var DIET_TAGS = ["meat", "dairy", "fish", "parve"];
+  var OCCASION_TAGS = ["passover", "shabbat"];
+  var TAG_LABELS = {
+    meat: "Meat", dairy: "Dairy", fish: "Fish", parve: "Parve",
+    passover: "Passover", shabbat: "Shabbat"
+  };
+
+  var recipesByTag = {};
+  RECIPES.forEach(function (r) {
+    (r.tags || []).forEach(function (t) {
+      if (!recipesByTag[t]) recipesByTag[t] = [];
+      recipesByTag[t].push(r);
+    });
+  });
+
   function escapeHtml(s) {
     return String(s)
       .replace(/&/g, "&amp;")
@@ -36,11 +51,23 @@
     navEl.innerHTML = parts.join(' <span class="sep">|</span> ');
   }
 
+  function tagBadgesHtml(r, opts) {
+    opts = opts || {};
+    var tags = (r.tags || []).filter(function (t) {
+      return opts.occasionOnly ? OCCASION_TAGS.indexOf(t) !== -1 : true;
+    });
+    if (!tags.length) return "";
+    return tags.map(function (t) {
+      return '<a class="tag-badge tag-' + t + '" href="#/tag/' + t + '">' + escapeHtml(TAG_LABELS[t] || t) + "</a>";
+    }).join(" ");
+  }
+
   function recipeListItemHtml(r) {
     return (
       "<li>" +
         '<a class="r-en" href="#/recipe/' + r.slug + '">' + escapeHtml(r.title_en) + "</a>" +
         '<span class="r-fr">' + escapeHtml(r.title_fr) + "</span>" +
+        '<span class="r-tags">' + tagBadgesHtml(r) + "</span>" +
       "</li>"
     );
   }
@@ -74,6 +101,43 @@
     });
     if (row.length) html += "<tr>" + row.join("") + "<td></td></tr>";
     html += "</tbody></table>";
+
+    html += '<h2 class="page-title">Recipes by Dietary Tag</h2>';
+    html += '<p class="page-sub">For kosher meal planning &mdash; see a recipe’s page for substitution notes where one applies.</p>';
+    html += '<p class="tag-browse">';
+    html += DIET_TAGS.map(function (t) {
+      var n = (recipesByTag[t] || []).length;
+      return '<a href="#/tag/' + t + '">' + escapeHtml(TAG_LABELS[t]) + "</a> (" + n + ")";
+    }).join(" &nbsp;|&nbsp; ");
+    html += "</p>";
+    html += '<p class="tag-browse">Occasion: ';
+    html += OCCASION_TAGS.map(function (t) {
+      var n = (recipesByTag[t] || []).length;
+      return '<a href="#/tag/' + t + '">' + escapeHtml(TAG_LABELS[t]) + "</a> (" + n + ")";
+    }).join(" &nbsp;|&nbsp; ");
+    html += "</p>";
+
+    app.innerHTML = html;
+  }
+
+  function renderTag(key) {
+    var label = TAG_LABELS[key];
+    if (!label) { renderNotFound(); return; }
+    buildNav(null);
+    var list = (recipesByTag[key] || []).slice().sort(function (a, b) {
+      return a.title_en.localeCompare(b.title_en);
+    });
+    var html = "";
+    html += '<p class="breadcrumb"><a href="#/">Home</a> &gt; ' + escapeHtml(label) + "</p>";
+    html += '<h2 class="page-title">' + escapeHtml(label) + "</h2>";
+    html += '<p class="page-sub">' + list.length + (list.length === 1 ? " recipe" : " recipes") + "</p>";
+    if (!list.length) {
+      html += '<div class="empty-state">No recipes tagged yet.</div>';
+    } else {
+      html += '<ul class="recipe-list">';
+      list.forEach(function (r) { html += recipeListItemHtml(r); });
+      html += "</ul>";
+    }
     app.innerHTML = html;
   }
 
@@ -116,6 +180,7 @@
     html += '<p class="breadcrumb"><a href="#/">Home</a> &gt; <a href="#/course/' + r.course + '">' + escapeHtml(c ? c.en : r.course) + "</a> &gt; " + escapeHtml(r.title_en) + "</p>";
     html += '<div class="recipe-detail">';
     html += '<div class="course-label">' + escapeHtml(c ? c.en : r.course) + "</div>";
+    html += '<p class="detail-tags">' + tagBadgesHtml(r) + "</p>";
     html += '<h2 class="title-en">' + escapeHtml(r.title_en) + "</h2>";
     html += '<p class="title-fr">' + escapeHtml(r.title_fr) + "</p>";
 
@@ -157,7 +222,7 @@
     html += '<h2 class="page-title">Searching for “' + escapeHtml(query) + "”</h2>";
 
     if (!q) {
-      html += '<div class="empty-state">Type something above to search all 168 recipes.</div>';
+      html += '<div class="empty-state">Type something above to search all ' + RECIPES.length + ' recipes.</div>';
       app.innerHTML = html;
       return;
     }
@@ -210,6 +275,8 @@
       renderHome();
     } else if (parts[0] === "course" && parts[1]) {
       renderCourse(parts[1]);
+    } else if (parts[0] === "tag" && parts[1]) {
+      renderTag(parts[1]);
     } else if (parts[0] === "recipe" && parts[1]) {
       renderRecipe(parts[1]);
     } else if (parts[0] === "search") {
