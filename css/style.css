@@ -1,0 +1,368 @@
+/* Chez Mamique — simple, classic styling. No frameworks, no fuss. */
+
+:root {
+  --cream: #f4efe2;
+  --paper: #fbf8f1;
+  --ink: #2a2420;
+  --ink-soft: #5a5247;
+  --navy: #1f3a5c;
+  --navy-visited: #4a3a6a;
+  --wine: #722f37;
+  --line: #bfb49c;
+  --line-light: #ddd4bd;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--cream);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+#page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 18px 20px 40px;
+  background: var(--paper);
+  border-left: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+}
+
+a { color: var(--navy); }
+a:visited { color: var(--navy-visited); }
+a:hover { color: var(--wine); }
+
+hr {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: 18px 0;
+}
+
+/* ---------- Header ---------- */
+
+.site-header {
+  text-align: center;
+  padding: 10px 0 4px;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 2.3rem;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+}
+
+.site-title a {
+  color: var(--wine);
+  text-decoration: none;
+}
+
+.site-title a:hover { text-decoration: underline; }
+
+.site-tagline {
+  margin: 4px 0 0;
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+/* ---------- Nav ---------- */
+
+.site-nav {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.92rem;
+  padding: 10px 6px;
+  margin-top: 10px;
+  background: var(--cream);
+  border: 1px solid var(--line-light);
+}
+
+.site-nav a {
+  text-decoration: none;
+  padding: 2px 4px;
+}
+
+.site-nav a:hover { text-decoration: underline; }
+
+.site-nav .sep {
+  color: var(--line);
+  padding: 0 2px;
+}
+
+.site-nav .current {
+  font-weight: bold;
+  color: var(--wine);
+}
+
+/* ---------- Search ---------- */
+
+.search-bar {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  margin-top: 12px;
+}
+
+.search-bar label { margin-right: 6px; color: var(--ink-soft); }
+
+#search {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.92rem;
+  padding: 3px 6px;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  width: 220px;
+}
+
+.search-bar button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  padding: 3px 10px;
+  margin-left: 4px;
+  border: 1px solid var(--line);
+  background: var(--cream);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.search-bar button:hover { background: var(--line-light); }
+
+/* ---------- Main content ---------- */
+
+main#app { min-height: 50vh; }
+
+.breadcrumb {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+}
+
+.page-title {
+  font-size: 1.7rem;
+  font-weight: normal;
+  color: var(--wine);
+  margin: 0 0 4px;
+}
+
+.page-sub {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  margin: 0 0 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------- Home: course list ---------- */
+
+.intro-box {
+  background: var(--cream);
+  border: 1px solid var(--line-light);
+  padding: 14px 18px;
+  margin-bottom: 22px;
+  font-size: 0.97rem;
+}
+
+table.course-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+table.course-table td {
+  border: 1px solid var(--line-light);
+  padding: 10px 14px;
+  vertical-align: top;
+}
+
+table.course-table .c-title a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+table.course-table .c-title a:hover { text-decoration: underline; }
+
+table.course-table .c-sub {
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+table.course-table .c-count {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- Recipe list ---------- */
+
+ul.recipe-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.recipe-list li {
+  border-bottom: 1px solid var(--line-light);
+  padding: 9px 2px;
+}
+
+ul.recipe-list li:first-child { border-top: 1px solid var(--line-light); }
+
+ul.recipe-list a.r-en {
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+ul.recipe-list a.r-en:hover { text-decoration: underline; }
+
+ul.recipe-list .r-fr {
+  color: var(--ink-soft);
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-left: 8px;
+}
+
+/* ---------- Recipe detail ---------- */
+
+.recipe-detail .course-label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  margin-bottom: 4px;
+}
+
+.recipe-detail h2.title-en {
+  margin: 0 0 2px;
+  font-size: 1.9rem;
+  font-weight: normal;
+  color: var(--wine);
+}
+
+.recipe-detail .title-fr {
+  font-style: italic;
+  color: var(--ink-soft);
+  margin: 0 0 18px;
+  font-size: 1.1rem;
+}
+
+.scan-gallery {
+  margin-bottom: 22px;
+}
+
+.scan-gallery img {
+  border: 1px solid var(--line);
+  padding: 3px;
+  background: #fff;
+  max-height: 460px;
+  width: auto;
+  margin: 0 10px 10px 0;
+  cursor: zoom-in;
+}
+
+table.text-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 18px;
+}
+
+table.text-table th {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: var(--cream);
+  border: 1px solid var(--line-light);
+  padding: 6px 14px;
+  color: var(--ink-soft);
+}
+
+table.text-table td {
+  border: 1px solid var(--line-light);
+  padding: 14px 16px;
+  vertical-align: top;
+  width: 50%;
+}
+
+.recipe-text {
+  white-space: pre-wrap;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  table.text-table, table.text-table tbody, table.text-table tr, table.text-table td {
+    display: block;
+    width: 100%;
+  }
+  table.text-table td { border-top: none; }
+}
+
+.recipe-note {
+  background: var(--cream);
+  border: 1px solid var(--line-light);
+  padding: 10px 16px;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 18px;
+}
+
+.recipe-nav {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* ---------- Search results / empty state ---------- */
+
+.empty-state {
+  text-align: center;
+  padding: 40px 10px;
+  color: var(--ink-soft);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------- Lightbox ---------- */
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 15, 10, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 24px;
+  cursor: zoom-out;
+}
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  background: #fff;
+  border: 4px solid #fff;
+}
+
+.lightbox[hidden] { display: none; }
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  text-align: center;
+}
