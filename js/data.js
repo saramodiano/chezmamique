@@ -316,8 +316,8 @@ const RECIPES = [
   },
   {
     "slug": "bulter-denise-levy",
-    "title_fr": "Bulter (Mme Denise Levy)",
-    "title_en": "Butter Cake (Mme Denise Levy)",
+    "title_fr": "Butterkuchen (Mme Denise Lévy)",
+    "title_en": "Butterkuchen (Mme Denise Lévy)",
     "course": "desserts",
     "images": [
       "images/scans/bulter-denise-levy.png"
