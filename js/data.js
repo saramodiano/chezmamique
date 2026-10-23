@@ -2710,8 +2710,8 @@ const RECIPES = [
   },
   {
     "slug": "beignets-hanouka",
-    "title_fr": "Beignets de Hanouka",
-    "title_en": "Hanukkah Donuts",
+    "title_fr": "Sufganiyot (Beignets de Hanouka)",
+    "title_en": "Sufganiyot (Hanukkah Donuts)",
     "course": "desserts",
     "images": [
       "images/scans/beignets-hanouka.png"
