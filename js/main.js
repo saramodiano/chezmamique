@@ -41,6 +41,13 @@
       .replace(/>/g, "&gt;");
   }
 
+  function suggestMailto(r) {
+    var subject = "Chez Mamique - " + r.title_en;
+    var body = "Recipe: " + r.title_en + " (" + r.title_fr + ")\n\n" +
+      "Attach your photo here, or describe the correction:\n\n";
+    return "mailto:smodiano@alum.mit.edu?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+  }
+
   function buildNav(currentCourse) {
     var parts = ['<a href="#/"' + (!currentCourse ? ' class="current"' : "") + ">Home</a>"];
     COURSES.forEach(function (c) {
@@ -80,7 +87,10 @@
       '<img src="images/family/family-dock.jpg" alt="Mamimonique with her daughters and granddaughter">' +
       '<img src="images/family/family-group.jpg" alt="Mamimonique and family">' +
     "</div>";
-    html += '<div class="intro-box">A collection of Mamimonique’s recipes, handwritten and otherwise, with the French kept as she wrote it and an English translation alongside. Browse by course below, or search for something specific.</div>';
+    html += '<div class="intro-box">' +
+      '<p>“Chez Mamique” is an organized collection of Mamimonique’s recipes, handwritten and otherwise, with the French kept as she wrote it and an English translation alongside. The recipes were collected over the years and written by Mamimonique, scanned and saved by Caroline, and translated and made into this website by Sara (with the help of Claude). There are some missing details, a few errors, and we’d love more pictures, so please submit any changes using the button on each recipe or by email. Browse by course below, or search for something specific!</p>' +
+      '<p>A few of Sara’s favorites and must-tries: the <a href="#/recipe/ratatouille">ratatouille</a>, <a href="#/recipe/soupe-courgettes-bassoul">soupe de courgettes</a>, <a href="#/recipe/couscous-marocain-etapes">couscous marocain</a>, <a href="#/course/desserts">all the cakes</a>, and the <a href="#/recipe/cake-roquefort-poires-noix">pear walnut roquefort cake</a>!</p>' +
+    '</div>';
     html += '<h2 class="page-title">Recipes by Course</h2>';
     html += '<table class="course-table"><tbody>';
     var row = [];
@@ -183,6 +193,7 @@
     html += '<p class="detail-tags">' + tagBadgesHtml(r) + "</p>";
     html += '<h2 class="title-en">' + escapeHtml(r.title_en) + "</h2>";
     html += '<p class="title-fr">' + escapeHtml(r.title_fr) + "</p>";
+    html += '<p class="recipe-suggest"><a href="' + suggestMailto(r) + '">Suggest a photo or correction for this recipe</a></p>';
 
     if (r.images && r.images.length) {
       html += '<div class="scan-gallery">';

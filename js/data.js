@@ -294,7 +294,7 @@ const RECIPES = [
     ],
     "french": "Huile d'olive + 2 oignons + ail, faire revenir (blond).\nAjouter 5 tomates épluchées.\n1 bouquet garni, sel, poivre, safran.\n+ eau (pour 6 personnes).\nLaisser bouillir, puis cuire à feu vif.\nMettre le poisson, cuire environ 6 minutes.\nServir le potage à part, avec un peu\nde poisson mouliné dedans, + rouille,\ncroûtons + aïoli.\n+ Poisson servi à part.\n\nPoissons: rascasse, vive, rouget, grondin, langoustine, congre, lotte, petite raie (facultatif), moules, crabes.",
     "english": "Olive oil + 2 onions + garlic, sauté until golden.\nAdd 5 peeled tomatoes.\n1 bouquet garni, salt, pepper, saffron.\n+ water (for 6 people).\nBring to a boil, then cook over high heat.\nAdd the fish, cook about 6 minutes.\nServe the broth separately, with a little\npuréed fish stirred in, + rouille (garlicky chili sauce),\ncroutons + aioli.\n+ Fish served on the side.\n\nFish: scorpionfish, weever, red mullet, gurnard, langoustine, conger eel, monkfish, small skate (optional), mussels, crab.",
-    "note": "To make kosher: this one's difficult — besides the shellfish (crab, langoustine, mussels), a couple of the fish listed (lotte/monkfish, raie/skate) also lack the scales required under kosher dietary law. A kosher version would mean building the broth and stew around only the kosher fish on the list (rascasse, rouget, grondin, congre) and leaving out the rest — a meaningfully different dish.",
+    "note": "",
     "tags": [
       "fish"
     ]
@@ -689,8 +689,8 @@ const RECIPES = [
   },
   {
     "slug": "nana-dedie-meres",
-    "title_fr": "Dédié à nos mères, femmes, filles... (recettes aux noix, 1951)",
-    "title_en": "Dedicated to Our Mothers, Wives, Daughters... (Walnut Recipes, 1951)",
+    "title_fr": "Recettes aux noix (1951)",
+    "title_en": "Walnut Recipes (1951)",
     "course": "desserts",
     "images": [
       "images/scans/nana-dedie-meres.jpg"
@@ -1536,7 +1536,7 @@ const RECIPES = [
     ],
     "french": "Paëlla (10 personnes)\n- 1 lapin (coupé en morceaux)\n- 1 calamar ou 2 (bien nettoyé et coupé)\n- Quelques moules ou une boîte\n- 700 g d'agneau (petits morceaux)\n- 700 g porc (petits morceaux)\n- 1 poivron, 3 tomates, haricots verts, pommes de terre\n- 10 langoustines, chorizo\n- 1 boîte safran, citrons\n\nFaire revenir dans l'huile d'olive le lapin, l'agneau, le porc et le calamar. Une fois le tout revenu, ajouter les oignons coupés et le poivron, et poivre (et chorizo), sel. Une fois le poivron presque cuit, ajouter les 3 tomates épluchées et tourner jusqu'à ce que les tomates soient fondues →\n\nEnsuite rajouter de l'eau salée et mettre environ 3 ou 400 g de haricots verts. Une fois les haricots cuits (il faut goûter et tourner presque tout le temps pour que cela n'attache pas), remettre de l'eau, et une fois que l'eau est [absorbée] jeter le riz et remettre de l'eau si nécessaire. Ensuite, une fois le riz cuit (il faut que toute l'eau soit absorbée), rajouter petits pois, fonds d'artichauts, moules et safran + jus de citron. Cuire les langoustines dans un court-bouillon 10 minutes et les remettre dessus.\n\nNe pas jeter le riz tant que les invités ne sont pas là, car la paella n'attend pas.\nBon appétit.",
     "english": "Paella (serves 10)\n- 1 rabbit, cut into pieces\n- 1 or 2 squid, well cleaned and cut\n- A few mussels, or one tin\n- 700 g lamb, small pieces\n- 700 g pork, small pieces\n- 1 bell pepper, 3 tomatoes, green beans, potatoes\n- 10 langoustines, chorizo\n- 1 tin saffron, lemons\n\nBrown the rabbit, lamb, pork, and squid in olive oil. Once everything is browned, add the chopped onions and bell pepper, pepper (and chorizo), and salt. Once the pepper is nearly cooked, add the 3 peeled tomatoes and stir until the tomatoes have broken down →\n\nThen add salted water and about 300-400 g of green beans. Once the beans are cooked (taste them, and stir almost constantly so nothing sticks), top up with water; once the water has been absorbed, add the rice and top up with water again if needed. Once the rice is cooked (all the water should be absorbed), add peas, artichoke hearts, mussels and saffron, plus lemon juice. Cook the langoustines in a court-bouillon for 10 minutes and place them on top.\n\nDon't add the rice until the guests have arrived, because paella doesn't wait.\nBon appétit!",
-    "note": "Pieced together from three scanned pages.\n\nTo make kosher: swap the pork for extra lamb or beef, and the rabbit for more chicken or veal. The squid, mussels, and langoustines are harder to substitute without changing the dish fundamentally — a kosher paella would need to drop the shellfish and lean more on chicken, lamb, and vegetables instead.",
+    "note": "Pieced together from three scanned pages.",
     "tags": [
       "meat"
     ]
@@ -2075,7 +2075,7 @@ const RECIPES = [
     ],
     "french": "Mettre quelques cuillères d'huile d'olive dans\nune casserole avec 1 à 3 oignons hachés.\nFaire revenir et ajouter les calamars\ncoupés en lamelles. Laisser roussir.\nAjouter 3 ou 4 tomates pelées et\nécrasées. Quand tout est bien incorporé,\nmouiller avec du vin blanc sec et\nautant d'eau bouillante.\nAssaisonner de sel et poivre.\nAjouter un bouquet garni.\nLaisser cuire à couvert et\ndoucement 1h30.\nQuand les calamars sont tendres au toucher,\najouter ail et persil hachés, et servir.",
     "english": "Put a few spoonfuls of olive oil in\na pot with 1 to 3 chopped onions.\nBrown them, then add the squid,\ncut into strips. Let it brown a little.\nAdd 3 or 4 peeled, crushed tomatoes.\nOnce everything is well combined,\nmoisten with dry white wine and\nan equal amount of boiling water.\nSeason with salt and pepper.\nAdd a bouquet garni.\nCover and let simmer\ngently for 1.5 hours.\nWhen the squid is tender to the touch,\nadd chopped garlic and parsley, and serve.",
-    "note": "To make kosher: squid is the dish here, so there isn't a substitute that keeps it recognizably the same recipe. A firm white fish cooked the same way would give a similar texture, but it wouldn't really be calmars anymore.",
+    "note": "",
     "tags": [
       "fish"
     ]
@@ -2549,6 +2549,603 @@ const RECIPES = [
     "note": "The original page first called for 15 minutes in the microwave, then had a correction added: cooked in a bain-marie instead, using a very hot heavy lid set over the covered dish for heat from above as well as below. The instructions here follow that correction.",
     "tags": [
       "parve"
+    ]
+  },
+  {
+    "slug": "chnobs",
+    "title_fr": "Chnobs",
+    "title_en": "Chnobs (Chocolate Charlotte Cake)",
+    "course": "desserts",
+    "images": [],
+    "french": "(12 personnes)\nMettre dans une casserole 300 g de chocolat,\n2 cuillères d'eau.\nFaire ramollir.\n+ 2 cuillères sucre en poudre.\nBien travailler.\nAjouter 1 à 1, 7 jaunes d'œufs, en réservant les blancs.\nPuis peu à peu, par petits morceaux, 260 g de beurre (ramolli). Travailler fortement.\nBattre les blancs en neige très ferme.\nMélanger à la pâte.\nBeurrer un moule à charlotte uni.\nLe remplir et mettre au froid.\nCe gâteau peut se faire la veille.\nPour le démouler, tremper le moule 1 seconde dans l'eau chaude.\nServir avec une crème anglaise au café.\nPour 8 personnes : 4 œufs, 250 g chocolat, 130 g beurre",
+    "english": "(Serves 12)\nPut 300 g chocolate and 2 tablespoons water in a saucepan.\nLet it soften.\n+ 2 tablespoons powdered sugar.\nMix well.\nAdd, one at a time, 7 egg yolks, setting the whites aside.\nThen gradually, in small pieces, add 260 g softened butter. Beat vigorously.\nBeat the whites into very stiff peaks.\nFold into the batter.\nButter a plain charlotte mold.\nFill it and refrigerate.\nThis cake can be made the day before.\nTo unmold, dip the mold in hot water for 1 second.\nServe with coffee-flavored custard (crème anglaise).\nFor 8 people: 4 eggs, 250 g chocolate, 130 g butter",
+    "note": "From a family recipe collection compiled by Isabelle Taillandier Modiano, from recipes gathered by Monique Taillandier Villard-Job and scanned by Caroline Taillandier Nagi.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "gateau-chocolat-mamie",
+    "title_fr": "Gâteau Chocolat Mamie",
+    "title_en": "Mamie's Chocolate Cake",
+    "course": "desserts",
+    "images": [],
+    "french": "3 œufs, séparés\nPoids des œufs, en : sucre / beurre / farine / chocolat (à égalité avec le poids des œufs)\nMélanger jaunes + sucre.\n+ 1 cuillère à soupe café\n+ chocolat fondu\n+ beurre\n+ farine\n+ blancs en neige\nCaraméliser le moule.\nFour tiède, au bain-marie.\nCouvrir le gâteau.\nAu four 2h. Démouler.",
+    "english": "3 eggs, separated\nWeight of the eggs, matched in: sugar / butter / flour / chocolate (equal to the weight of the eggs)\nMix the yolks with the sugar.\n+ 1 tablespoon coffee\n+ melted chocolate\n+ butter\n+ flour\n+ stiffly beaten egg whites\nCaramelize the mold.\nWarm oven, in a water bath (bain-marie).\nCover the cake.\nBake 2 hours. Turn out of the mold.",
+    "note": "From a family recipe collection compiled by Isabelle Taillandier Modiano, from recipes gathered by Monique Taillandier Villard-Job and scanned by Caroline Taillandier Nagi.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "cake-roquefort-poires-noix",
+    "title_fr": "Cake au roquefort, aux poires et aux noix",
+    "title_en": "Pear, Walnut, and Roquefort Cake",
+    "course": "starters",
+    "images": [],
+    "french": "Pour 6 à 8 personnes. Préparation : 15 min. Cuisson : 50 min.\n\n- 3 oeufs\n- 180 g de farine\n- 1 sachet de levure chimique\n- 10 cl de lait\n- 8 cl d'huile\n- 2 poires\n- 150 g de roquefort\n- 100 g de cerneaux de noix\n- 100 g de gruyère râpé\n- sel, poivre\n\n1. Dans un saladier, battez les oeufs avec la farine et la levure. Incorporez le lait et l'huile. Ajoutez une pincée de sel.\n2. Pelez et coupez les poires en cubes. Coupez le roquefort en petits morceaux. Concassez légèrement les noix. Ajoutez poire, roquefort, noix et gruyère à la préparation. Salez et poivrez.\n3. Versez le mélange dans un moule à cake légèrement huilé. Enfournez 50 min dans le four préchauffé à 180°C. Surveillez la fin de la cuisson en piquant le cake avec la lame d'un couteau : elle doit en ressortir sèche. Laissez refroidir avant de démouler.",
+    "english": "Serves 6 to 8. Prep: 15 min. Baking: 50 min.\n\n- 3 eggs\n- 180 g flour\n- 1 packet baking powder\n- 10 cl (scant 1/2 cup) milk\n- 8 cl (1/3 cup) oil\n- 2 pears\n- 150 g Roquefort\n- 100 g walnut halves\n- 100 g grated Gruyère\n- salt, pepper\n\n1. In a mixing bowl, beat the eggs with the flour and baking powder. Stir in the milk and oil. Add a pinch of salt.\n2. Peel and cube the pears. Cut the Roquefort into small pieces. Roughly chop the walnuts. Add the pear, Roquefort, walnuts, and Gruyère to the batter. Season with salt and pepper.\n3. Pour the batter into a lightly oiled loaf pan. Bake for 50 minutes in an oven preheated to 180°C (350°F). Check for doneness by inserting a knife blade — it should come out dry. Let cool before unmolding.",
+    "note": "One of Sara's favorites — a savory loaf cake, originally printed from the cooking site Ôdélices rather than handwritten by Mamimonique.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "ratatouille",
+    "title_fr": "Ratatouille",
+    "title_en": "Ratatouille",
+    "course": "sides",
+    "images": [],
+    "french": "Ingrédients :\n3 aubergines, 5 courgettes, 1 poivron vert, 1 poivron rouge, 1 petit piment (jalapeño), 4 ou 5 tomates.\nLaver les légumes, ne pas les éplucher.\n\n1. Couper les aubergines et les laisser cuire 5 minutes dans une casserole d'eau chaude (les aubergines absorberont moins d'huile lors de la cuisson).\n2. Faire revenir dans l'huile d'olive chaude 3 gousses d'ail coupées en petits morceaux.\n3. Mettre les aubergines dans la casserole et laisser cuire à feu doux 15 minutes en remuant.\n4. Puis y ajouter les courgettes coupées en morceaux. Puis y ajouter les poivrons et le jalapeño coupés en morceaux.\n5. Laisser cuire 30 minutes en remuant de temps en temps. Puis ajouter les tomates coupées.\n6. Sel, 1 feuille de laurier si vous en avez, 1 grosse cuillère d'herbes de Provence.\n\nLaisser cuire doucement 1 heure 1/2 à 2 heures en remuant de temps en temps.",
+    "english": "Ingredients:\n3 eggplants, 5 zucchini, 1 green bell pepper, 1 red bell pepper, 1 small chili (jalapeño), 4 or 5 tomatoes.\nWash the vegetables; don't peel them.\n\n1. Cut the eggplants and let them cook for 5 minutes in a pot of hot water (this way they'll absorb less oil during cooking).\n2. Sauté 3 cloves of garlic, cut into small pieces, in hot olive oil.\n3. Add the eggplants to the pot and let cook over low heat for 15 minutes, stirring.\n4. Then add the zucchini, cut into pieces. Then add the bell peppers and jalapeño, cut into pieces.\n5. Let cook for 30 minutes, stirring occasionally. Then add the chopped tomatoes.\n6. Salt, 1 bay leaf if you have one, 1 heaping spoonful of herbes de Provence.\n\nLet cook gently for 1.5 to 2 hours, stirring occasionally.",
+    "note": "",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "carpe-a-la-juive",
+    "title_fr": "Carpe à la juive",
+    "title_en": "Carp, Jewish-Style",
+    "course": "mains",
+    "images": [
+      "images/scans/carpe-a-la-juive.jpg"
+    ],
+    "french": "Nettoyer la carpe, la vider, réserver l'eau.\nDécouper les morceaux. Saler largement, surtout l'intérieur de la tête.\n\nMettre à chauffer de l'huile. Faire revenir un oignon haché fin. Quand il est doré, y ajouter une cuillère et demie de farine.\nFaire revenir en faisant blondir.\nMettre de l'eau en quantité suffisante.\nAjouter ail et échalote, hachés fin, et poivre.\n\nQuand la sauce bout, y mettre le poisson.\nBien étaler les morceaux. Préparer un hachis de persil, ail et échalote.\nMettre ce hachis en 3 fois durant la cuisson du poisson.\nLa dernière portion, 5 minutes avant.\n\nÀ manger tiède ou froid.",
+    "english": "Clean the carp, gut it, and set the water aside.\nCut it into pieces. Salt generously, especially inside the head.\n\nHeat some oil. Sauté one finely chopped onion. Once golden, add one and a half tablespoons of flour.\nCook until lightly browned.\nAdd enough water to cover.\nAdd garlic and shallot, finely chopped, and pepper.\n\nOnce the sauce is boiling, add the fish.\nArrange the pieces well. Prepare a mixture of chopped parsley, garlic, and shallot.\nAdd this mixture in three additions during the fish's cooking time.\nAdd the last portion 5 minutes before the end.\n\nServe warm or cold.",
+    "note": "",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "slug": "gateau-louba",
+    "title_fr": "Gâteau Louba",
+    "title_en": "Louba's Cake (Apple Streusel Cake)",
+    "course": "desserts",
+    "images": [
+      "images/scans/gateau-louba.jpg"
+    ],
+    "french": "(Faire refroidir à l'avance)\n3 oeufs, blancs en neige\n200 g sucre, 250 g beurre fondu\n500 g farine, 1 paquet levure\n1 cuillère à soupe huile\nsucre vanillé, 1 cuillère cognac\nCouper la pâte en 4 — Frigidaire 1 nuit.\n\nÉtaler 1 boule. Mettre au moule.\nCouper les pommes (2 kg, très fin) + cannelle + sucre + beurre.\nRecouvrir de pâte.\nÉmietter farine + sucre cristallisé + beurre.\nFrigidaire 1h avant de l'enfourner.\nFour 7, 1 heure.",
+    "english": "(Chill the dough ahead of time)\n3 eggs, whites beaten stiff\n200 g sugar, 250 g melted butter\n500 g flour, 1 packet baking powder\n1 tablespoon oil\nvanilla sugar, 1 tablespoon brandy\nDivide the dough into 4 — refrigerate overnight.\n\nRoll out one piece. Place in the mold.\nSlice the apples very thin (2 kg) and toss with cinnamon, sugar, and butter.\nCover with more dough.\nCrumble together flour, granulated sugar, and butter for the topping.\nRefrigerate for 1 hour before baking.\nBake at gas mark 7 for 1 hour.",
+    "note": "Shares a page with a Passover chocolate cake recipe already on the site. Page order and a couple of quantities (farine, beurre) were hard to make out with full certainty.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "gateau-amandes-germaine",
+    "title_fr": "Gâteau aux amandes (façon Germaine)",
+    "title_en": "Almond Cake, Germaine-Style",
+    "course": "desserts",
+    "images": [
+      "images/scans/gateau-amandes-germaine.jpg"
+    ],
+    "french": "Ingrédients :\n- 6 œufs\n- 250 g d'amandes en poudre\n- 280 g de sucre\n- le jus d'un demi-citron\n\nSéparer les jaunes des blancs.\nMélanger le sucre, les jaunes, et le jus de citron ; bien mélanger.\nPuis ajouter la poudre d'amandes et les blancs d'œufs battus en neige.",
+    "english": "Ingredients:\n- 6 eggs\n- 250 g ground almonds\n- 280 g sugar\n- the juice of half a lemon\n\nSeparate the egg yolks from the whites.\nMix the sugar, egg yolks, and lemon juice together well.\nThen fold in the ground almonds and the stiffly beaten egg whites.",
+    "note": "The page cuts off here — no mold or baking instructions given.",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "gateau-pessah-irene",
+    "title_fr": "Gâteau Pessah « Irène »",
+    "title_en": "Passover Cake (Irène)",
+    "course": "desserts",
+    "images": [
+      "images/scans/gateau-pessah-irene.jpg"
+    ],
+    "french": "250 g chocolat\n250 g beurre ou margarine\n8 œufs\n250 g sucre\n50 g farine de matzot\n200 g amandes en poudre\n\nCuisson : 40 min\nTherm. : 210\n\nFaire fondre le chocolat dans un peu d'eau (1/3 de verre) avec une cuillérée de Nescafé, ajouter le beurre, les jaunes d'œuf, le sucre, la farine et les amandes.\nBattre les blancs en neige et les ajouter au mélange.\nOn peut ajouter du sucre glace en couverture pour l'esthétique.",
+    "english": "250 g chocolate\n250 g butter or margarine\n8 eggs\n250 g sugar\n50 g matzo meal\n200 g ground almonds\n\nBaking time: 40 min\nOven: 210°C\n\nMelt the chocolate in a little water (1/3 glass) with a spoonful of instant coffee, then add the butter, egg yolks, sugar, matzo meal, and almonds.\nBeat the egg whites to stiff peaks and fold them into the mixture.\nYou can dust with powdered sugar on top for looks.",
+    "note": "",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "montecaos",
+    "title_fr": "Montécaos",
+    "title_en": "Montécaos (Sephardic Sugar Cookies)",
+    "course": "desserts",
+    "images": [
+      "images/scans/montecaos.jpg"
+    ],
+    "french": "① 1 livre de farine\n② 1 verre 1/2 de sucre cristallisé\n③ 1 verre 1/2 d'huile\n\nMalaxer et faire des petites boules.\nN.B. : utiliser 1 verre à moutarde (comme mesure).\nPréchauffer Th.3, cuisson Th.2, 1/4 heure.",
+    "english": "① 1 lb (about 450 g) flour\n② 1½ glasses granulated sugar\n③ 1½ glasses oil\n\nKnead together and shape into small balls.\nN.B.: use a small \"mustard glass\" as your measuring cup.\nPreheat to gas mark 3, bake at gas mark 2 for 15 minutes.",
+    "note": "",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "kneifflich",
+    "title_fr": "Kneïfflich",
+    "title_en": "Kneïfflich (Matzo Dumplings)",
+    "course": "sides",
+    "images": [
+      "images/scans/kneifflich.jpg"
+    ],
+    "french": "Kneïfflich (70 boulettes)\n250 g farine de matzo\n6 œufs\n125 g margarine ou graisse d'oie\n1 cuillère à café sel, poivre, 1/2 verre d'eau\n\nMélanger farine, œufs, margarine ramollie, eau, sel, poivre.\n→ Pâte pas trop ferme → former des boulettes.\nCuire à l'eau bouillante salée, à petit bouillon, 1 heure, casserole couverte.\nÉgoutter, dresser.\nRéchauffer dans le bouillon.",
+    "english": "Kneïfflich (makes about 70)\n250 g matzo meal\n6 eggs\n125 g margarine or goose fat\n1 teaspoon salt, pepper, 1/2 glass water\n\nMix the matzo meal, eggs, softened margarine, water, salt, and pepper.\n→ The dough shouldn't be too firm → shape into small dumplings.\nCook in salted boiling water, at a gentle simmer, for 1 hour, covered.\nDrain and serve.\nReheat in the broth.",
+    "note": "",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "baba-ganoush",
+    "title_fr": "Aubergines (caviar d'aubergines à la crème de sésame)",
+    "title_en": "Baba Ganoush (Eggplant and Tahini Dip)",
+    "course": "starters",
+    "images": [
+      "images/scans/baba-ganoush.jpg"
+    ],
+    "french": "Ingrédients :\n- 3 aubergines\n- le jus de deux ou trois petits citrons\n- 2 gousses d'ail\n- 4 à 5 cuillerées à soupe d'huile d'olive\n- 4 cuillerées à soupe de crème de sésame (tahina)\n- sel\n\n1. Commencer par mettre au four les aubergines, sur une plaque recouverte de papier d'aluminium.\n2. Mettre le four en position « grill » et rôtir l'aubergine en la retournant de temps en temps. La peau va griller et même brûler, c'est normal — il faut que l'aubergine soit molle à l'intérieur. Le temps de cuisson dépend du four ; il faut surveiller.\n3. Laisser refroidir complètement avant de manipuler. Prélever la chair de l'aubergine et la placer dans un récipient.\n4. Écraser la chair avec une cuillère pour réduire en purée.\n5. Ajouter l'huile d'olive.",
+    "english": "Ingredients:\n- 3 eggplants\n- the juice of two or three small lemons\n- 2 cloves garlic\n- 4 to 5 tablespoons olive oil\n- 4 tablespoons tahini (sesame paste)\n- salt\n\n1. Start by putting the eggplants in the oven, on a tray lined with aluminum foil.\n2. Set the oven to \"grill\"/broil and roast the eggplant, turning it from time to time. The skin will char and even burn — that's normal; the eggplant should be soft inside. Cooking time depends on the oven, so keep an eye on it.\n3. Let cool completely before handling. Scoop out the eggplant flesh into a bowl.\n4. Mash the flesh with a spoon to make a purée.\n5. Add the olive oil.",
+    "note": "From the recipe site La Cuisine de Bernard. The scanned page cuts off after step 5 — the final step (mixing in the garlic, lemon juice, tahini, and salt) is missing.",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "beignets-hanouka",
+    "title_fr": "Beignets de Hanouka",
+    "title_en": "Hanukkah Donuts",
+    "course": "desserts",
+    "images": [
+      "images/scans/beignets-hanouka.jpg"
+    ],
+    "french": "Pour 6 personnes :\n1. 625 g de farine\n2. 75 g de beurre fondu\n3. 1 litre d'huile\n4. 1 cube de 25 g de levure de boulanger (ou deux sachets)\n5. 2 œufs\n6. 35 cl de lait à température ambiante\n7. 100 g de sucre en poudre\n8. 1 cuillère à café de sel\n\nTemps total : 30 min. Préparation : 10 min. Cuisson : 20 min.\n\n1. Dans un saladier, mélanger la levure et le lait, le sucre, le sel, les œufs, le beurre et la moitié de la farine. Travailler pendant quelques minutes avec une cuillère en bois.\n2. Incorporer le reste de la farine peu à peu. Pétrir pendant environ 5 minutes jusqu'à ce que la pâte soit homogène et élastique. La mettre dans un saladier couvert d'un linge humide.\n3. Laisser lever la pâte pendant 1 heure à température ambiante (ou toute une nuit au frigo si vous faites la pâte la veille).\n4. Placer la boule de pâte sur une surface farinée et l'étendre sur environ 1 cm d'épaisseur.\n5. Détailler les beignets avec un emporte-pièce rond sans oublier de faire le trou au milieu. Laisser reposer à nouveau les beignets entre 45 min à 1h à température ambiante ou pendant 25 min au four à 30°C (thermostat 1) : il faut qu'ils doublent de volume (les mettre sur un torchon légèrement fariné pour éviter qu'ils collent).\n6. Faire chauffer 1 litre d'huile dans une grande casserole à 175°C environ. Cuire les donuts environ 45 sec de chaque côté (attention la cuisson est rapide).\n7. Sucrer, glacer ou fourrer les beignets avec du Nutella avec un pinceau sur le dessus à votre convenance.",
+    "english": "Serves 6:\n1. 625 g flour\n2. 75 g melted butter\n3. 1 liter oil (for frying)\n4. 1 cube (25 g) baker's yeast, or two packets\n5. 2 eggs\n6. 35 cl (about 1½ cups) milk, at room temperature\n7. 100 g granulated sugar\n8. 1 teaspoon salt\n\nTotal time: 30 min. Prep: 10 min. Cooking: 20 min.\n\n1. In a mixing bowl, combine the yeast and milk, sugar, salt, eggs, butter, and half the flour. Work together for a few minutes with a wooden spoon.\n2. Gradually incorporate the rest of the flour. Knead for about 5 minutes until the dough is smooth and elastic. Place it in a bowl covered with a damp cloth.\n3. Let the dough rise for 1 hour at room temperature (or overnight in the fridge if making the dough the day before).\n4. Place the dough on a floured surface and roll it out to about 1 cm thick.\n5. Cut out the donuts with a round cutter, remembering to cut the hole in the middle. Let the donuts rest again for 45 minutes to 1 hour at room temperature, or 25 minutes in the oven at 30°C (gas mark 1) — they should double in size (place them on a lightly floured towel so they don't stick).\n6. Heat 1 liter of oil in a large pot to about 175°C. Fry the donuts about 45 seconds per side (they cook fast, so watch closely).\n7. Finish with sugar, glaze, or fill with Nutella, brushed on top as you like.",
+    "note": "A modern online recipe, not handwritten by Mamimonique.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "confiture-oranges-colette",
+    "title_fr": "Confiture d'oranges (Colette)",
+    "title_en": "Orange Marmalade (Colette)",
+    "course": "preserves",
+    "images": [
+      "images/scans/confiture-oranges-colette.jpg"
+    ],
+    "french": "500 g d'oranges\n1 citron\n750 g d'eau\n1 kg de sucre\n\nCouper les oranges en très fines tranches.\nAjouter l'eau et laisser reposer 48 h.\nCuire 1/2 heure.\nLaisser encore reposer 24 h.\nAjouter le sucre et le jus de citron.\nCuire 3/4 d'heure, voire 1 heure.",
+    "english": "500 g oranges\n1 lemon\n750 g water\n1 kg sugar\n\nSlice the oranges very thinly.\nAdd the water and let sit for 48 hours.\nCook for 1/2 hour.\nLet sit again for 24 hours.\nAdd the sugar and lemon juice.\nCook for 3/4 hour, up to 1 hour.",
+    "note": "",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "gateau-fruits-rosette",
+    "title_fr": "Gâteau aux fruits Rosette",
+    "title_en": "Rosette's Fruit Cake (Apple or Pear)",
+    "course": "desserts",
+    "images": [
+      "images/scans/gateau-fruits-rosette.jpg"
+    ],
+    "french": "2 œufs + 125 g sucre en poudre, mixer.\n4 cuillères huile.\n8 cuillères lait ou lait de soja.\n200 g farine.\n1 paquet levure.\nFruits coupés : pommes ou poires.\nPapier sulfurisé sur moule rond.\nCuire 30 à 45 minutes, chaleur tournante, 180°.\nSortir, laisser reposer 5 minutes, et saupoudrer de sucre vanillé.",
+    "english": "2 eggs + 125 g powdered sugar, mix together.\n4 tablespoons oil.\n8 tablespoons milk or soy milk.\n200 g flour.\n1 packet baking powder.\nCut fruit: apples or pears.\nParchment paper in a round mold.\nBake 30 to 45 minutes, fan oven, 180°C.\nRemove, let sit 5 minutes, and dust with vanilla sugar.",
+    "note": "",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "gateau-miel-roch-hachana",
+    "title_fr": "Gâteau au miel de Roch Hachana (Rosette Hoenig)",
+    "title_en": "Rosh Hashana Honey Cake (Rosette Hoenig)",
+    "course": "desserts",
+    "images": [
+      "images/scans/gateau-miel-roch-hachana.jpg"
+    ],
+    "french": "4 œufs, blancs en neige\n150 g sucre\n150 g miel\ncafé\n10 cuillères huile\n200 g farine\n1/2 sachet de levure chimique\n\nVerser dans un moule sur papier sulfurisé. Cuisson 1h30 à 175 degrés, four à chaleur tournante.",
+    "english": "4 eggs, whites beaten stiff\n150 g sugar\n150 g honey\ncoffee (a splash)\n10 tablespoons oil\n200 g flour\n1/2 packet baking powder\n\nPour into a mold lined with parchment paper. Bake for 1.5 hours at 175°C (347°F), fan oven.",
+    "note": "The same page also has a longer, more modern recipe for the same cake, but that version was cut off mid-instructions and isn't included here.",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "pates-sardines-anne",
+    "title_fr": "Pâtes aux sardines (Anne)",
+    "title_en": "Pasta with Sardines (Anne)",
+    "course": "mains",
+    "images": [
+      "images/scans/pates-sardines-anne.jpg"
+    ],
+    "french": "- 2 boîtes de sardines à l'huile\n- un peu de flocons de piment\n- 4 à 5 gousses d'ail\n- 4 à 5 anchois\n- huile d'olive\n- 1 boîte de tomates concassées\n- olives kalamata grecques, 10-15\n\nFaire revenir l'huile, l'ail écrasé, les anchois et le piment à feu moyen jusqu'à ce que les anchois fondent.\nAjouter les 2 boîtes de sardines sans huile et les écraser en mélangeant bien.\nAjouter les tomates concassées et bien mélanger. Couvrir et faire cuire à feu doux au moins 45 minutes.\nÀ tout moment de la cuisson, ajouter les olives coupées en lamelles à la sauce.\nFaire cuire les pâtes séparément dans de l'eau salée. Suivre le temps de cuisson indiqué sur la boîte.\nUne fois cuites, égoutter les pâtes et les mélanger à la sauce en s'assurant que toutes les pâtes sont bien couvertes de sauce.\nServir avec du bon parmesan.",
+    "english": "- 2 cans sardines in oil\n- a pinch of red pepper flakes\n- 4 to 5 cloves garlic\n- 4 to 5 anchovies\n- olive oil\n- 1 can crushed tomatoes\n- 10-15 Greek kalamata olives\n\nSauté the oil, crushed garlic, anchovies, and chili flakes over medium heat until the anchovies melt into the oil.\nAdd the 2 cans of sardines (drained) and mash them in, mixing well.\nAdd the crushed tomatoes and mix well. Cover and cook over low heat for at least 45 minutes.\nAt any point during cooking, add the olives, sliced, to the sauce.\nCook the pasta separately in salted water, following the time on the box.\nOnce cooked, drain the pasta and toss it with the sauce, making sure every piece is well coated.\nServe with good Parmesan.",
+    "note": "From an email from Anne Taillandier.",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "slug": "pate-choux-base",
+    "title_fr": "Pâte à choux : recette de base inratable (chouquettes)",
+    "title_en": "Choux Pastry: No-Fail Basic Recipe (Chouquettes)",
+    "course": "desserts",
+    "images": [
+      "images/scans/pate-choux-base.jpg"
+    ],
+    "french": "Pour 6 personnes. Préparation : 40 min. Cuisson : 15 min.\n\nIngrédients :\n- 6 oeufs\n- 375 ml d'eau\n- 150 g de beurre\n- 1 c. à café de sel\n- 1 c. à soupe de sucre\n- 225 g de farine\n- Sucre en grains\n\n1. Dans une casserole, versez l'eau, ajoutez le sel, le sucre et le beurre coupé en morceaux puis faites bouillir.\n2. Hors du feu, ajoutez la farine en une seule fois et mélangez rapidement pour obtenir une pâte lisse et homogène.\n3. Faites-la ensuite dessécher à feu doux en mélangeant doucement.\n4. Versez cette préparation dans le bol du robot et mélangez les oeufs un par un à la pâte sans cesser de battre.\n5. Sur une plaque recouverte de papier cuisson et à l'aide d'une poche à douille ou de deux petites cuillères, formez les chouquettes puis parsemez-les avec les grains de sucre.\n6. Enfournez à 190° pendant 15 à 20 minutes en surveillant.",
+    "english": "Serves 6. Prep: 40 min. Baking: 15 min.\n\nIngredients:\n- 6 eggs\n- 375 ml water\n- 150 g butter\n- 1 tsp salt\n- 1 tbsp sugar\n- 225 g flour\n- Pearl sugar\n\n1. In a saucepan, pour in the water, add the salt, sugar, and butter cut into pieces, then bring to a boil.\n2. Off the heat, add the flour all at once and mix quickly to form a smooth, even dough.\n3. Dry it out over low heat, stirring gently.\n4. Transfer the mixture to a stand mixer bowl and beat in the eggs one at a time, without stopping.\n5. On a baking sheet lined with parchment paper, pipe or spoon out small mounds (chouquettes) and sprinkle with pearl sugar.\n6. Bake at 190°C (375°F) for 15 to 20 minutes, watching closely.",
+    "note": "From HerveCuisine.com.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "pate-sablee-journal-femmes",
+    "title_fr": "Pâte sablée : la meilleure recette",
+    "title_en": "Shortcrust Pastry: The Best Recipe",
+    "course": "desserts",
+    "images": [
+      "images/scans/pate-sablee-journal-femmes.jpg"
+    ],
+    "french": "Pour 4 personnes. Préparation : 10 min. Cuisson : 15 min.\n\nIngrédients :\n- 250 g de farine\n- 125 g de beurre\n- 50 g de sucre glace\n- 1 jaune d'oeuf\n- 30 g d'eau\n- 1 pincée de sel\n\n1. Sabler entre les mains la farine et le beurre coupé en petits cubes. Lorsque le beurre est totalement absorbé par la farine, ajouter le sucre glace (préférable au sucre en poudre : la pâte sera moins cassante, donc plus fondante).\n2. Ajouter le jaune d'oeuf et l'eau froide, puis une pincée de sel. Mélanger pour réunir tous les ingrédients et, dès que la pâte se forme, arrêter de mélanger (sinon elle devient trop élastique). Réunir le tout sur un papier film et emballer. Réfrigérer 30 minutes pour que le beurre raffermisse.\n3. Utiliser très peu de farine pour étaler la pâte : elle n'en sera que meilleure, car moins sèche.",
+    "english": "Serves 4. Prep: 10 min. Baking: 15 min.\n\nIngredients:\n- 250 g flour\n- 125 g butter\n- 50 g powdered sugar\n- 1 egg yolk\n- 30 g water\n- 1 pinch salt\n\n1. Rub the flour and butter (cut into small cubes) together between your hands. Once the butter is fully absorbed into the flour, add the powdered sugar (better than granulated sugar here — the dough will be less crumbly and more tender).\n2. Add the egg yolk and cold water, then a pinch of salt. Mix to bring the dough together and stop as soon as it forms (overmixing makes it too elastic). Gather it onto plastic wrap and wrap it up. Chill for 30 minutes so the butter firms up.\n3. Use very little flour when rolling it out — the pastry will be better for it, since it stays less dry.",
+    "note": "From Journal des Femmes.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "pudim-portugais",
+    "title_fr": "Pudim (recette portugaise authentique)",
+    "title_en": "Pudim (Authentic Portuguese Flan)",
+    "course": "desserts",
+    "images": [
+      "images/scans/pudim-portugais.jpg"
+    ],
+    "french": "Ingrédients :\n- 10 oeufs\n- 1 bol de sucre\n- 1 bol de lait\n- 5 c. à soupe de sucre\n- 20 cl d'eau pour le caramel\n\nDans un grand saladier, bien mélanger tous les ingrédients dans l'ordre oeuf/sucre/lait.\nPréparer un caramel dans une casserole avec les 5 cuillères de sucre et un peu d'eau.\nVerser le caramel dans un moule à gâteau. Il faut napper tous les bords.\nVerser la préparation oeufs/sucre/lait.\nPoser ce moule dans un autre plus grand et rempli d'eau.\nCe pudim se cuit au bain-marie au four à 180°C (thermostat 6).\nCeci peut être plus ou moins long selon les fours.\nIl faut surveiller la cuisson en plantant un couteau : s'il ressort complètement sec, c'est que c'est prêt.\nAttendre un peu avant de démouler dans un joli plat puis mettre au frigo.\nIl se mange bien froid.",
+    "english": "Ingredients:\n- 10 eggs\n- 1 bowl sugar\n- 1 bowl milk\n- 5 tbsp sugar\n- 20 cl water, for the caramel\n\nIn a large mixing bowl, mix all the ingredients together well in this order: egg, sugar, milk.\nMake a caramel in a saucepan with the 5 tablespoons of sugar and a little water.\nPour the caramel into a cake mold, coating all the sides.\nPour in the egg/sugar/milk mixture.\nSet this mold inside a larger one filled with water.\nBake this pudim in a water bath (bain-marie) in the oven at 180°C (gas mark 6).\nBaking time may vary depending on the oven.\nCheck for doneness by inserting a knife — if it comes out completely dry, it's ready.\nLet it rest a bit before unmolding onto a nice serving plate, then refrigerate.\nBest eaten cold.",
+    "note": "From Marmiton.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "brisket-anne",
+    "title_fr": "Poitrine de boeuf braisée (Anne)",
+    "title_en": "Beef Brisket (Anne)",
+    "course": "mains",
+    "images": [
+      "images/scans/brisket-anne.jpg"
+    ],
+    "french": "Ingrédients :\n- 4 grosses gousses d'ail, écrasées\n- 1/2 cuillère à café de sel casher, plus un peu pour assaisonner\n- 4 branches de romarin frais, effeuillées et hachées\n- 1/4 tasse d'huile d'olive extra-vierge\n- 1 poitrine de boeuf (environ 1,8 kg), première coupe\n- Poivre noir grossièrement moulu\n- 4 grosses carottes, coupées en tronçons de 7-8 cm\n- 3 branches de céleri, coupées en tronçons de 7-8 cm\n- 4 gros oignons rouges, coupés en deux\n- 2 tasses de vin rouge sec\n- 1 boîte (450 g) de tomates entières, écrasées à la main\n- 1 poignée de persil plat frais\n- 3 feuilles de laurier\n- 1 cuillère à soupe de farine (facultatif)\n\nPréchauffer le four à 160°C.\nSur une planche à découper, écraser l'ail et 1/2 cuillère à café de sel avec le plat d'un couteau jusqu'à obtenir une pâte. Ajouter le romarin et continuer à écraser jusqu'à incorporation. Mettre la pâte ail-romarin dans un petit bol et ajouter 2 cuillères à soupe d'huile d'olive ; mélanger.\nAssaisonner les deux côtés de la poitrine de boeuf généreusement de sel casher et de poivre noir moulu. Faire chauffer une grande cocotte à feu moyen-vif et y verser le reste de l'huile d'olive. Mettre la poitrine à saisir pour former une belle croûte dorée des deux côtés. Disposer les légumes tout autour de la viande et verser la pâte au romarin sur le tout. Ajouter le vin et les tomates ; ajouter le persil et les feuilles de laurier. Couvrir hermétiquement de papier aluminium et transférer au four. Cuire environ 3 à 4 heures, en arrosant du jus de cuisson toutes les 30 minutes, jusqu'à ce que la viande soit fondante.\nRetirer la poitrine sur une planche à découper et laisser reposer 15 minutes. Retirer les légumes de la cocotte et les déposer sur un plat, couvrir pour garder au chaud.",
+    "english": "Ingredients:\n- 4 large garlic cloves, smashed\n- 1/2 teaspoon kosher salt, plus more for seasoning\n- 4 sprigs fresh rosemary, needles stripped from the stem and chopped\n- 1/4 cup extra-virgin olive oil\n- 1 (4 pound) beef brisket, first-cut\n- Coarsely ground black pepper\n- 4 large carrots, cut in 3-inch chunks\n- 3 celery stalks, cut in 3-inch chunks\n- 4 large red onions, halved\n- 2 cups dry red wine\n- 1 (16-ounce) can whole tomatoes, hand-crushed\n- 1 handful fresh flat-leaf parsley leaves\n- 3 bay leaves\n- 1 tablespoon all-purpose flour (optional)\n\nPreheat the oven to 325°F (160°C).\nOn a cutting board, mash the garlic and 1/2 teaspoon of the salt together with the flat side of a knife into a paste. Add the rosemary and continue to mash until incorporated. Put the garlic-rosemary paste in a small bowl and add 2 tablespoons of olive oil; stir to combine.\nSeason both sides of the brisket with a fair amount of kosher salt and ground black pepper. Place a large roasting pan or Dutch oven over medium-high heat and coat with the remaining olive oil. Put the brisket in the roasting pan and sear to form a nice brown crust on both sides. Lay the vegetables all around the brisket and pour the rosemary paste over the whole thing. Add the wine and tomatoes; toss in the parsley and bay leaves. Cover the pan tightly with aluminum foil and transfer to the oven. Bake for about 3 to 4 hours, basting every 30 minutes with the pan juices, until the beef is fork tender.\nRemove the brisket to a cutting board and let it rest for 15 minutes. Scoop the vegetables out of the roasting pan and onto a platter, cover to keep warm.",
+    "note": "From a recipe Anne Taillandier emailed to Monique Taillandier in 2010. Partial capture — the sauce-finishing step at the very end wasn't included in the scan.",
+    "tags": [
+      "meat"
+    ]
+  },
+  {
+    "slug": "crepes",
+    "title_fr": "Crêpes",
+    "title_en": "Crêpes",
+    "course": "desserts",
+    "images": [
+      "images/scans/crepes.jpg"
+    ],
+    "french": "1 1/2 verre de farine\n2 oeufs\n2 verres de lait\n1 pincée de sel\n1/2 c. d'huile\n1 c. de sucre - 1 c. de rhum",
+    "english": "1 1/2 glasses flour\n2 eggs\n2 glasses milk\n1 pinch salt\n1/2 tbsp oil\n1 tbsp sugar - 1 tbsp rum",
+    "note": "",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "gateau-pavot-graines",
+    "title_fr": "Gâteau aux graines de pavot",
+    "title_en": "Poppy Seed Cake",
+    "course": "desserts",
+    "images": [
+      "images/scans/gateau-pavot-graines.jpg"
+    ],
+    "french": "Pour un moule carré de 21 cm sur 21 cm.\n\nPâte sucrée :\n- 210 g de farine\n- 125 g de beurre doux froid\n- 35 g de sucre glace\n- 25 g de poudre d'amande\n- 50 g d'oeuf battu\n- Vanille en poudre\n\nFarce aux graines de pavot (pour une couche épaisse) :\n- 375 g de graines de pavot\n- 450 ml de lait demi-écrémé\n- 135 g de miel\n- 200 g de sucre\n- 200 g de poudre d'amandes\n- 125 g d'oeuf\n- 90 g de raisins secs\n\n(Pour une couche moins épaisse : 300 g de graines de pavot, 360 ml de lait, 105 g de miel, 160 g de sucre, 160 g de poudre d'amandes, 100 g d'oeuf [2 oeufs], 80 g de raisins secs.)\n\nPréparer la pâte sucrée : mettre tous les ingrédients sauf l'oeuf dans le bol du robot. Battre avec la feuille (le K) jusqu'à incorporation du beurre. Ajouter l'oeuf battu au préalable, remettre en marche juste pour l'incorporer, pas plus. Mettre la pâte en boule, l'envelopper de film et la placer au frais le temps de préparer le reste.\n\nPendant ce temps, mettre le pavot et le lait dans une casserole, sur feu modéré, en mélangeant constamment à la cuillère en bois. Le mélange va bouillir ; laisser les graines absorber le lait. Au bout d'une demi-heure, le lait a presque entièrement disparu.",
+    "english": "For a 21cm x 21cm square pan.\n\nSweet pastry:\n- 210 g flour\n- 125 g cold unsalted butter\n- 35 g powdered sugar\n- 25 g almond flour\n- 50 g beaten egg\n- Ground vanilla\n\nPoppy seed filling (for a thick layer):\n- 375 g poppy seeds\n- 450 ml semi-skimmed milk\n- 135 g honey\n- 200 g sugar\n- 200 g almond flour\n- 125 g egg\n- 90 g raisins\n\n(For a thinner layer: 300 g poppy seeds, 360 ml milk, 105 g honey, 160 g sugar, 160 g almond flour, 100 g egg [2 eggs], 80 g raisins.)\n\nPrepare the sweet pastry: put all ingredients except the egg in a stand mixer bowl. Beat with the paddle attachment until the butter is incorporated. Add the pre-beaten egg, mix briefly just to incorporate it — no more. Shape the dough into a ball, wrap in plastic, and chill while you prepare the rest.\n\nMeanwhile, put the poppy seeds and milk in a saucepan over medium heat, stirring constantly with a wooden spoon. The mixture will come to a boil; let the seeds absorb the milk. After about half an hour, the milk will have almost completely disappeared.",
+    "note": "Transcribed from a typed recipe found among the family's recipe files — the baking and assembly steps weren't captured in the scan.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "soupe-epicee-carotte",
+    "title_fr": "Soupe épicée à la carotte",
+    "title_en": "Spiced Carrot Soup",
+    "course": "soups",
+    "images": [
+      "images/scans/soupe-epicee-carotte.jpg"
+    ],
+    "french": "Pour 1,25 litre.\n\n- 80 ml d'huile d'olive\n- 2 c. à café de miel\n- 3 c. à café de cumin moulu\n- 3 c. à café de graines de coriandre concassées\n- 1,5 kg de carottes épluchées et coupées en morceaux de 3 cm environ\n- 2 bâtons de cannelle coupés en deux\n- 750 ml de bouillon de volaille\n- 100 ml de crème fraîche\n- 3 c. à soupe de feuilles de coriandre fraîches\n\n1. Préchauffer le four à 200°C (th. 6). Mélanger l'huile, le miel, le cumin, les graines de coriandre, 1 cuillerée à café de sel et du poivre noir concassé dans un plat à rôtir et bien mélanger avec les carottes et les bâtons de cannelle de façon à bien les enrober d'épices.\n2. Faire rôtir le mélange au four pendant 1 heure, jusqu'à ce que les carottes soient tendres, en agitant de temps en temps le plat en cours de cuisson. Retirer du four, retirer la cannelle et laisser les carottes tiédir.\n3. Mixer la moitié des carottes au robot avec 375 ml de bouillon de volaille et 250 ml d'eau jusqu'à obtention d'une pâte lisse. Passer le mélange au tamis au-dessus d'une casserole. Répéter l'opération avec les carottes restantes et 250 ml de bouillon. Faire chauffer la soupe à feu doux et laissez-la mijoter 10 minutes. Ajouter la crème fraîche, assaisonner selon votre goût. Verser la soupe dans des tasses. Déposer un peu de crème fraîche sur le dessus et décorer avec une feuille de coriandre.\n\nCette soupe se conserve deux jours au réfrigérateur (incorporez la crème fraîche au moment de servir).",
+    "english": "Makes 1.25 liters.\n\n- 80 ml olive oil\n- 2 tsp honey\n- 3 tsp ground cumin\n- 3 tsp crushed coriander seeds\n- 1.5 kg carrots, peeled and cut into roughly 3 cm chunks\n- 2 cinnamon sticks, halved\n- 750 ml chicken stock\n- 100 ml crème fraîche\n- 3 tbsp fresh coriander (cilantro) leaves\n\n1. Preheat the oven to 200°C (gas mark 6). Mix the oil, honey, cumin, coriander seeds, 1 teaspoon of salt, and crushed black pepper in a roasting dish, then toss well with the carrots and cinnamon sticks to coat them evenly in the spices.\n2. Roast in the oven for 1 hour, until the carrots are tender, shaking the pan occasionally during cooking. Remove from the oven, discard the cinnamon, and let the carrots cool slightly.\n3. Blend half the carrots in a food processor with 375 ml of the stock and 250 ml water until smooth. Strain through a sieve into a saucepan. Repeat with the remaining carrots and 250 ml stock. Warm the soup gently over low heat and simmer for 10 minutes. Stir in the crème fraîche, season to taste. Pour into cups, top with a little extra crème fraîche, and garnish with a coriander leaf.\n\nThis soup keeps two days in the fridge (stir in the cream just before serving).",
+    "note": "",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "sauce-nantua-sans-homard",
+    "title_fr": "Sauce Nantua sans bisque de homard",
+    "title_en": "Nantua Sauce without Lobster Bisque",
+    "course": "sauces",
+    "images": [
+      "images/scans/sauce-nantua-sans-homard.jpg"
+    ],
+    "french": "Pour 6 personnes. Préparation : 10 min. Cuisson : 35 min.\n\n- 6 quenelles\n- 1/2 l de lait\n- 200 g de crème fraîche épaisse\n- 40 g de beurre\n- 40 g de farine\n- 1 c. à soupe de cognac\n- Sel, poivre\n\n1. Préchauffer le four à th.6 (200°C).\n2. Dans une casserole, faire fondre le beurre, puis ajouter la farine en pluie tout en remuant. Délayer avec le lait.\n3. Faire cuire à feu doux tout en remuant jusqu'à épaississement puis ajouter la crème. Mélanger et poursuivre la cuisson pendant 15 min. Verser le cognac, saler, poivrer et mélanger.\n4. Dans un plat allant au four (un plat à gratin par exemple), disposer les quenelles et les recouvrir de sauce Nantua.\n5. Faire cuire pendant 20 min.\n\nAstuce : pour épaissir un peu plus la sauce, on peut ajouter quelques pincées de Maïzena, en remuant bien entre chaque ajout.",
+    "english": "Serves 6. Prep: 10 min. Cooking: 35 min.\n\n- 6 quenelles\n- 1/2 liter milk\n- 200 g thick crème fraîche\n- 40 g butter\n- 40 g flour\n- 1 tbsp Cognac\n- Salt, pepper\n\n1. Preheat the oven to 200°C (gas mark 6).\n2. In a saucepan, melt the butter, then whisk in the flour. Thin with the milk.\n3. Cook over low heat, stirring, until it thickens, then add the cream. Mix and continue cooking for 15 minutes. Add the Cognac, season with salt and pepper, and mix.\n4. In an oven-safe dish (a gratin dish works well), arrange the quenelles and cover with the Nantua sauce.\n5. Bake for 20 minutes.\n\nTip: to thicken the sauce a bit more, add a pinch of cornstarch at a time, stirring well between additions.",
+    "note": "From CuisineAZ — a lobster-bisque-free version of Nantua sauce.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "spheries-pessah",
+    "title_fr": "Sphériès",
+    "title_en": "Sphériès (Passover Matzo-Meal Fritters)",
+    "course": "desserts",
+    "images": [
+      "images/scans/spheries-pessah.jpg"
+    ],
+    "french": "Pour 10 personnes. Préparation : 10 min. Cuisson : 3 min.\n\n- 12 c. à soupe de farine de matsa\n- 12 oeufs\n- 1 grosse pincée de sel\n- 1 jus d'orange ou de citron\n- Cannelle (facultatif)\n- Fleur d'oranger ou rhum (facultatif)\n\nPour le sirop :\n- 400 g de sucre\n- 75 cl d'eau\n\n1. Dans un saladier, verser la farine de matsa.\n2. Ajouter en remuant les oeufs un à un. Mettre la pincée de sel, le jus d'orange et bien mélanger jusqu'à ce que la pâte devienne onctueuse.\n3. Façonner la pâte en petites boules et les faire frire dans l'huile chaude jusqu'à ce qu'elles soient bien dorées. Préparer le sirop en faisant chauffer le sucre et l'eau, puis y tremper les boules chaudes avant de servir.",
+    "english": "Serves 10. Prep: 10 min. Cooking: 3 min.\n\n- 12 tbsp matzo meal\n- 12 eggs\n- 1 large pinch of salt\n- 1 orange or lemon, juiced\n- Cinnamon (optional)\n- Orange blossom water or rum (optional)\n\nFor the syrup:\n- 400 g sugar\n- 75 cl water\n\n1. Pour the matzo meal into a mixing bowl.\n2. Stir in the eggs one at a time. Add the pinch of salt and the citrus juice, and mix well until the batter turns smooth.\n3. Shape the batter into small balls and fry in hot oil until nicely golden. Make the syrup by heating the sugar and water together, then dip the warm fritters in it before serving.",
+    "note": "From Journal des Femmes. The frying and syrup step is reconstructed from the ingredient list and photos — the exact wording wasn't captured in the scan.",
+    "tags": [
+      "parve",
+      "passover"
+    ]
+  },
+  {
+    "slug": "sticky-buns-bread-machine",
+    "title_fr": "Petits pains collants (machine à pain)",
+    "title_en": "Sticky Buns (Bread Machine)",
+    "course": "breads",
+    "images": [
+      "images/scans/sticky-buns-bread-machine.jpg"
+    ],
+    "french": "Pour 10 petits pains. Prêt en 1 heure environ (pâte préparée à la machine à pain).\n\nPâte :\n- 300 ml de lait\n- 1 c. à café d'extrait de vanille\n- 3 c. à soupe de beurre\n- 3 tasses de farine tout usage\n- 3 c. à soupe de sucre\n- 1 1/4 c. à café de sel\n- 2 c. à café de levure instantanée\n\nGarniture :\n- 3/4 tasse de sucre roux\n- 1 c. à soupe de cannelle\n- 6 c. à soupe de beurre, ramolli\n\nNappage caramel :\n- 1/3 tasse de beurre\n- 1 tasse de sucre roux\n- 1/4 tasse de sirop de maïs clair\n- 1 tasse de noix de pécan concassées\n\n1. Mettre la farine, le sucre blanc, le sel, la levure, le lait, la vanille et 3 cuillères à soupe de beurre dans la machine à pain, selon le mode d'emploi. Programmer le cycle « Pâte ».\n2. Pendant que la pâte se prépare, mélanger les 3/4 tasse de sucre roux et la cannelle pour la garniture. Laisser les 6 cuillères à soupe de beurre ramollir à température ambiante.\n3. Graisser le fond et les bords d'un moule de 33 x 23 cm.\n4. Lorsque le cycle de pâte est presque terminé, préparer le nappage en faisant fondre le 1/3 tasse de beurre, la tasse de sucre roux et le sirop de maïs dans une petite casserole à feu modéré, en remuant jusqu'à dissolution. Verser dans le moule et étaler. Parsemer les noix de pécan concassées par-dessus.\n5. Une fois le cycle terminé, sortir la pâte et l'étaler sur un plan de travail fariné en un rectangle de 30 x 38 cm.\n\nÉtaler le beurre ramolli sur la pâte, saupoudrer du mélange sucre-cannelle, puis rouler la pâte sur elle-même dans le sens de la longueur. Couper en 10 tranches et les disposer sur le nappage caramel-pécan. Laisser lever 45 minutes à température ambiante, couvert d'un film plastique, jusqu'à ce que les petits pains soient gonflés. Cuire au four préchauffé jusqu'à ce qu'ils soient dorés. Démouler immédiatement en retournant le moule sur un plat.",
+    "english": "Makes 10 buns. Ready in about 1 hour (dough made in a bread machine).\n\nDough:\n- 1 1/4 cups milk\n- 1 tsp vanilla extract\n- 3 tbsp butter\n- 3 cups all-purpose flour\n- 3 tbsp sugar\n- 1 1/4 tsp salt\n- 2 tsp instant yeast\n\nFilling:\n- 3/4 cup brown sugar\n- 1 tbsp cinnamon\n- 6 tbsp butter, softened\n\nCaramel topping:\n- 1/3 cup butter\n- 1 cup brown sugar\n- 1/4 cup light corn syrup\n- 1 cup pecans, chopped\n\n1. Place the flour, white sugar, salt, yeast, milk, vanilla, and 3 tablespoons of butter into your bread machine as directed in your user's manual. Program it for the \"Dough\" cycle.\n2. While the dough is mixing, prepare the filling by mixing the brown sugar and cinnamon together. Let the 6 tablespoons of butter come to room temperature.\n3. Grease the bottom and sides of a 13\"x9\" baking pan.\n4. When the dough cycle is nearly finished, make the caramel topping by combining the butter, brown sugar, and corn syrup in a small pan over moderate heat. Heat and stir until the syrup dissolves, then pour it into the baking pan and spread it out. Sprinkle the chopped pecans over the caramel.\n5. When the dough cycle ends, remove the dough and place on a lightly floured surface. Roll it out to make a 12\" by 15\" rectangle.\n\nSpread the softened butter across the dough, sprinkle with the cinnamon-sugar mixture, then roll the dough up lengthwise. Slice into 10 rounds and arrange them over the caramel-pecan layer. Let rise, lightly covered with plastic wrap, about 45 minutes at room temperature, until puffy. Bake in a preheated oven until golden. Unmold immediately by inverting the pan onto a serving plate.",
+    "note": "From Food.com (submitted by buckeye1953). The scan cuts off partway through the rolling/baking step — the final paragraph is standard sticky-bun assembly, not verbatim from the source.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "strudel-pavot-parve",
+    "title_fr": "Strudel au pavot (parve)",
+    "title_en": "Poppy Seed Strudel (Parve)",
+    "course": "desserts",
+    "images": [
+      "images/scans/strudel-pavot-parve.jpg"
+    ],
+    "french": "Pâte :\nPréparer la pâte 1 à 2 heures à l'avance et la garder au réfrigérateur.\n- 400 g de farine\n- 50 g de levure du boulanger délayée dans un verre d'eau tiède\n- 4 c. à soupe de sucre semoule\n- 200 g de margarine fondue (type Arcy)\n- 1 paquet de sucre vanillé\n- 2 oeufs entiers battus\n\nBien mélanger, pétrir. Mettre la pâte dans une boîte couverte au réfrigérateur 1h ou 2h.\n\nFarce :\nGraines de pavot 200g, laissées 1h ou 2 au congélateur puis moulinées, mélangées à de la cannelle en poudre et à 200g de sucre poudre.\n\nSéparer la pâte en 4 boules pour faire 4 roulés. Étaler finement chaque boule de pâte en formant un rectangle, sur un fond de farine pour que la pâte ne colle pas.\nBadigeonner un peu d'huile, au pinceau, sur la pâte étalée.\nSaupoudrer le mélange (placé dans un « chinois ») pavot, cannelle, sucre poudre sur toute la surface de la pâte.\nRecouvrir ce mélange de pommes à cuire, épluchées et coupées en fines lamelles.\nRouler la pâte et fermer à chaque bout et le long du roulé en la « collant » avec un peu d'huile. Recommencer avec chaque boule de pâte.\nPlacer les 4 roulés sur une plaque du four, sur un papier sulfurisé ou aluminium huilé.\nCuisson : 180° (6) 40 minutes. 10' avant la fin de la cuisson, dorer les roulés à l'oeuf.\nCouper des tranches de 2 cm quand le gâteau est encore chaud.",
+    "english": "Dough:\nPrepare the dough 1 to 2 hours ahead and keep it in the fridge.\n- 400 g flour\n- 50 g baker's yeast, dissolved in a glass of warm water\n- 4 tbsp caster sugar\n- 200 g melted margarine (Arcy brand or similar)\n- 1 packet vanilla sugar\n- 2 whole eggs, beaten\n\nMix well, knead. Put the dough in a covered container in the fridge for 1 to 2 hours.\n\nFilling:\n200 g poppy seeds, left in the freezer for 1-2 hours then ground, mixed with ground cinnamon and 200 g powdered sugar.\n\nDivide the dough into 4 balls to make 4 rolls. Roll out each ball thinly into a rectangle, on a floured surface so the dough doesn't stick.\nBrush a little oil over the rolled-out dough with a pastry brush.\nSprinkle the poppy seed/cinnamon/powdered sugar mixture (sifted through a fine strainer) over the whole surface of the dough.\nCover this with cooking apples, peeled and thinly sliced.\nRoll up the dough and seal both ends and along the roll by pinching it together with a little oil. Repeat with each ball of dough.\nPlace the 4 rolls on a baking sheet, on parchment paper or oiled aluminum foil.\nBaking: 180°C (gas mark 6), 40 minutes. 10 minutes before the end of baking, brush the rolls with beaten egg.\nCut into 2 cm slices while the cake is still warm.",
+    "note": "",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "terrine-agrumes-sophie",
+    "title_fr": "Terrine d'agrumes, sauce à l'orange (Sophie)",
+    "title_en": "Citrus Terrine with Orange Sauce (Sophie)",
+    "course": "desserts",
+    "images": [
+      "images/scans/terrine-agrumes-sophie.jpg"
+    ],
+    "french": "Pour la terrine :\n- 2 pamplemousses blancs\n- 2 pomelos roses\n- 6 grosses oranges\n- 5 citrons verts\n- 100 g de sucre roux\n- 5 feuilles de gélatine\n- Feuilles de menthe\n\nPour la sauce à l'orange :\n- Le jus de 5 oranges\n- 70 g de sucre\n- 2 c. à soupe de Maïzena\n\nMettre les feuilles de gélatine à tremper dans un bol d'eau froide. Peler les agrumes à vif puis détacher les quartiers en récupérant le jus. Porter ce jus à ébullition avec le sucre. Hors du feu, ajouter la menthe et laisser infuser 5 minutes. Ajouter alors la gélatine essorée et bien mélanger.\n\nRépartir les agrumes dans un moule à cake, verser le jus chaud par-dessus et laisser refroidir. Mettre au réfrigérateur pendant au moins 3 heures.\n\nPour la sauce, mettre dans une casserole le jus des oranges, le sucre et la Maïzena. Porter à ébullition en fouettant constamment avec un fouet. Baisser le feu et poursuivre la cuisson pendant quelques minutes. Laisser refroidir. Cette sauce se déguste tiède. Et voilà le travail !",
+    "english": "For the terrine:\n- 2 white grapefruits\n- 2 pink grapefruits (pomelos)\n- 6 large oranges\n- 5 limes\n- 100 g brown sugar\n- 5 gelatin sheets\n- Mint leaves\n\nFor the orange sauce:\n- Juice of 5 oranges\n- 70 g sugar\n- 2 tbsp cornstarch\n\nSoak the gelatin sheets in a bowl of cold water. Peel the citrus down to the flesh, then separate the segments, catching the juice as you go. Bring this juice to a boil with the sugar. Off the heat, add the mint and let infuse for 5 minutes. Squeeze out the gelatin and stir it in.\n\nArrange the citrus segments in a loaf pan, pour the hot juice over them, and let cool. Refrigerate for at least 3 hours.\n\nFor the sauce, put the orange juice, sugar, and cornstarch in a saucepan. Bring to a boil, whisking constantly. Lower the heat and continue cooking for a few minutes. Let cool. This sauce is served warm. And that's it!",
+    "note": "",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "tiramisu-espace-casher",
+    "title_fr": "Tiramisu (Espace Casher Strasbourg)",
+    "title_en": "Tiramisu (Espace Casher Strasbourg)",
+    "course": "desserts",
+    "images": [
+      "images/scans/tiramisu-espace-casher.jpg"
+    ],
+    "french": "Pour 6 personnes, en barquette alu de 2L.\n\nIngrédients :\n- 48 boudoirs\n- 2 sachets de sucre vanillé\n- 200 g de sucre roux\n- 6 oeufs\n- 500 g de mascarpone\n- 1 L de café fort\n- 60 g de cacao amer\n\nConseil de pro : pour éviter que le cacao ne soit trop vite imbibé, saupoudrez d'abord votre tiramisu de sucre glace avant de saupoudrer de cacao.\n\nPréparation :\n- Séparer les blancs des jaunes d'oeufs.\n- Mélanger les jaunes avec le sucre roux et le sucre vanillé.\n- Ajouter le mascarpone au fouet.\n- Monter les blancs en neige et les incorporer délicatement à la spatule au mélange précédent. Réserver.\n- Mouiller les biscuits dans le café rapidement avant d'en tapisser le fond du plat.\n- Recouvrir d'une couche de crème au mascarpone puis répéter l'opération en alternant couche de biscuits et couche de crème, en terminant par cette dernière.\n- Saupoudrer de cacao.\n- Mettre au réfrigérateur 4 heures minimum puis déguster frais.",
+    "english": "Serves 6, in a 2L foil tray.\n\nIngredients:\n- 48 ladyfingers (boudoirs)\n- 2 packets vanilla sugar\n- 200 g brown sugar\n- 6 eggs\n- 500 g mascarpone\n- 1 liter strong coffee\n- 60 g unsweetened cocoa powder\n\nPro tip: to keep the cocoa from getting soaked in too quickly, dust the tiramisu with powdered sugar first, then with cocoa.\n\nMethod:\n- Separate the egg whites from the yolks.\n- Mix the yolks with the brown sugar and vanilla sugar.\n- Whisk in the mascarpone.\n- Beat the egg whites to stiff peaks and gently fold them into the mixture with a spatula. Set aside.\n- Quickly dip the ladyfingers in the coffee before lining the bottom of the dish.\n- Cover with a layer of the mascarpone cream, then repeat, alternating layers of biscuits and cream, finishing with a layer of cream.\n- Dust with cocoa.\n- Refrigerate for at least 4 hours, then serve chilled.",
+    "note": "From a flyer for Espace Casher, Strasbourg.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "cake-pavot-betty-bossi",
+    "title_fr": "Cake aux graines de pavot (Betty Bossi)",
+    "title_en": "Poppy Seed Cake (Betty Bossi)",
+    "course": "desserts",
+    "images": [
+      "images/scans/cake-pavot-betty-bossi.jpg"
+    ],
+    "french": "Pour 8 personnes. Mise en place et préparation : env. 30 min. Cuisson au four : env. 1 h.\n\nIngrédients :\n150 g de beurre, mou\n150 g de sucre\n1.5 c.c. de sucre vanillé\n5 jaunes d'œufs\n5 blancs d'œufs\n1 pincée de sel\n2 c.s. de sucre\n125 g d'amandes moulues\n200 g de graines de pavot (moulues)\n\nGlaçage :\n150 g de sucre glace\n1 citron\n1 c.s. d'eau\n2 c.c. de kirsch\nun peu de graines de pavot, selon goût\n\nPréparation :\n1. Préchauffer le four à 180°C. Mélanger dans un grand bol beurre, sucre et sucre vanillé. Incorporer les jaunes d'œufs, travailler encore jusqu'à ce que la masse blanchisse.\n2. Monter les blancs d'œufs en neige ferme avec le sel, ajouter le sucre, fouetter encore jusqu'à ce que la neige brille. Mélanger les amandes et les graines de pavot, incorporer à la masse en alternant avec la neige. Remplir le moule chemisé.\n3. Cuisson : env. 1 h dans la moitié inférieure du four. Retirer, laisser tiédir un peu, démouler, déposer sur une grille.\n4. Mettre le sucre glace dans un bol. Ajouter 2 c.c. de jus du citron, l'eau et le kirsch, mélanger en un glaçage épais. Napper le cake encore chaud de glaçage, parsemer éventuellement de graines de pavot.\n\nMoule : pour un moule à cake de 30 cm, chemisé de papier cuisson.\nConservation : env. 1 semaine au réfrigérateur, enveloppé dans du film alimentaire.\nRemarque : moulues, les graines de pavot développent un arôme plus intense. Les placer env. 2 h au congélateur, puis les moudre finement au hachoir électrique.",
+    "english": "Serves 8. Prep: approx. 30 min. Baking: approx. 1 hour.\n\nIngredients:\n150 g butter, softened\n150 g sugar\n1.5 tsp vanilla sugar\n5 egg yolks\n5 egg whites\n1 pinch salt\n2 tbsp sugar\n125 g ground almonds\n200 g poppy seeds (ground)\n\nGlaze:\n150 g powdered sugar\n1 lemon\n1 tbsp water\n2 tsp kirsch\na little poppy seed, to taste\n\nMethod:\n1. Preheat the oven to 180°C (350°F). In a large bowl, mix the butter, sugar, and vanilla sugar. Beat in the egg yolks and keep working until the mixture turns pale.\n2. Whisk the egg whites to stiff peaks with the salt, add the sugar, and keep whisking until glossy. Mix the ground almonds and poppy seeds together, then fold into the batter alternating with the egg whites. Fill the lined pan.\n3. Bake for about 1 hour in the lower half of the oven. Remove, let cool slightly, unmold, and set on a rack.\n4. Put the powdered sugar in a bowl. Add 2 tsp lemon juice, the water, and the kirsch, and mix into a thick glaze. Glaze the cake while still warm, and sprinkle with a few extra poppy seeds if you like.\n\nPan: a 30 cm loaf pan, lined with parchment paper.\nStorage: about 1 week in the fridge, wrapped in plastic film.\nNote: grinding the poppy seeds brings out a stronger flavor — freeze them for about 2 hours first, then grind finely in an electric mill.",
+    "note": "From a printed Betty Bossi recipe card found among the family recipes.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "louba",
+    "title_fr": "Gâteau au miel (Louba)",
+    "title_en": "Honey Cake (Louba)",
+    "course": "desserts",
+    "images": [
+      "images/scans/louba.jpg"
+    ],
+    "french": "1 verre du miel ≈ 430 gr\nun peu de bicarbonate de soude\n6 oeufs (très gros)\n180 gr du sucre + 90 gr. du sucre\n2 citrons, vanille, un bocal de confiture de cerises\n2 cuillères à soupe d'huile\n480 gr de farine.\n\nFaire chauffer le miel, hors feu ajouter bicarbonate de soude, bien mélanger, laisser refroidir.\nBlanchir les 6 jaunes d'oeufs avec 200gr de sucre, ajouter les citrons (zestes et jus), l'huile, vanille, farine, confiture, noix de pecan ou autres...\nBattre les blancs d'oeufs avec 90gr du sucre et petit à petit mélanger avec le reste.\nVerser l'appareil dans un moule et piquer les noix.\nEnfourner à 200° ≈ 20 min, baisser la température à 180° encore 20 min., vérifier avec un couteau...\n\nBon courage et bon appétit.",
+    "english": "1 glass honey ≈ 430 g\na little baking soda\n6 eggs (very large)\n180 g sugar + 90 g sugar\n2 lemons, vanilla, a jar of cherry jam\n2 tablespoons oil\n480 g flour\n\nHeat the honey, then off the heat stir in the baking soda, mix well, and let cool.\nBeat the 6 egg yolks with 200 g sugar until pale, then add the lemons (zest and juice), the oil, vanilla, flour, jam, and pecans or other nuts...\nBeat the egg whites with 90 g sugar and gradually fold into the rest.\nPour the batter into a pan and stud with the nuts.\nBake at 200°C for about 20 min, then lower to 180°C for another 20 min; check with a knife...\n\nGood luck and bon appétit.",
+    "note": "A classic honey cake — \"Louba\" may be the name of whoever shared the recipe.",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "macarons-ginette-bloch",
+    "title_fr": "Macarons (Ginette Bloch)",
+    "title_en": "Macaroons (Ginette Bloch)",
+    "course": "desserts",
+    "images": [
+      "images/scans/macarons-ginette-bloch.jpg"
+    ],
+    "french": "3 blancs d'oeuf\n250 Grs de sucre\n250 Grs d'amandes en poudre\n1 pincée de sel\n\nMélanger le tout (sans battre les blancs en neige).\n\nMettre au four à 150° pendant 20 minutes.\n\nBonne réussite et bonne fête.",
+    "english": "3 egg whites\n250 g sugar\n250 g ground almonds\n1 pinch of salt\n\nMix everything together (no need to whip the egg whites first).\n\nBake at 150°C (300°F) for 20 minutes.\n\nGood luck, and happy holiday!",
+    "note": "Shared by Ginette Bloch over email in 2009, for the holidays.",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "nougat-glace",
+    "title_fr": "Nougat glacé",
+    "title_en": "Frozen Nougat",
+    "course": "desserts",
+    "images": [
+      "images/scans/nougat-glace-1.jpg",
+      "images/scans/nougat-glace-2.jpg",
+      "images/scans/nougat-glace-3.jpg",
+      "images/scans/nougat-glace-4.jpg"
+    ],
+    "french": "Alliance subtile de fruits secs, de fruits confits et de miel, rehaussée par le parfum de la fleur d'oranger, un dessert délicieux, simple à réaliser.\n\nPréparation : 45 min. Cuisson : 10 min. 6/8 personnes. Pour 1 moule à cake de 25 cm de long :\n\n- 50 g d'amandes mondées\n- 100 g de pistaches non salées décortiquées\n- 75 g de fruits confits assortis\n- 50 g de cerises confites\n- 120 g de miel d'acacia\n- 2 oeufs entiers\n- 2 blancs d'oeufs\n- 100 g de sucre en poudre\n- 20 cl de crème fleurette\n- 1 cuill. à soupe d'eau de fleur d'oranger\n\nMettez les amandes à chauffer dans une poêle antiadhésive. Dès qu'elles commencent à dorer, saupoudrez-les d'une cuillerée à café de sucre. Remuez jusqu'à un début de caramélisation. Procédez de la même manière avec les pistaches et une cuillerée à soupe de sucre. Laissez refroidir. Découpez les fruits confits et les cerises en tout petits dés. Hachez finement les amandes et les pistaches.\n\nCassez les oeufs en séparant les blancs des jaunes. Déposez les blancs dans une jatte avec les deux autres, montez-les en neige ferme en incorporant une cuillerée à soupe de sucre. Versez le miel dans une casserole, faites-le chauffer 1 min. Puis versez-le en filet sur les blancs tout en fouettant. Continuez à battre pendant 3 min après l'absorption complète du miel.\n\nDans une jatte, fouettez les jaunes avec le reste du sucre jusqu'à ce que le mélange devienne mousseux. Ajoutez peu à peu les blancs en neige, puis l'eau de fleur d'oranger, toujours en fouettant. Incorporez les amandes et les pistaches hachées à la préparation, puis les fruits confits. Mélangez délicatement.\n\nFouettez légèrement la crème fleurette et incorporez-la rapidement.\n\nTapissez le moule de film transparent. Versez la préparation. Égalisez la surface avec une spatule. Faites prendre au moins 12 h au congélateur.\n\nAu moment de servir, démoulez le nougat glacé sur le plat de service et retirez le film transparent. Dégustez, accompagné d'un coulis de fruits rouges ou d'un coulis de mangues.",
+    "english": "A subtle blend of dried fruit, candied fruit, and honey, lifted with orange-blossom water — a delicious dessert, simple to make.\n\nPrep: 45 min. Cooking: 10 min. Serves 6-8. For one 25 cm loaf pan:\n\n- 50 g blanched almonds\n- 100 g unsalted shelled pistachios\n- 75 g assorted candied fruit\n- 50 g candied cherries\n- 120 g acacia honey\n- 2 whole eggs\n- 2 egg whites\n- 100 g granulated sugar\n- 20 cl (scant 1 cup) light whipping cream\n- 1 tablespoon orange-blossom water\n\nToast the almonds in a nonstick pan. As soon as they start to turn golden, sprinkle with a teaspoon of sugar and stir until lightly caramelized. Do the same with the pistachios and a tablespoon of sugar. Let cool. Dice the candied fruit and cherries very finely. Finely chop the almonds and pistachios.\n\nSeparate the eggs. Put the whites in a bowl with the 2 extra whites, and whip to stiff peaks, adding a tablespoon of sugar as you go. Warm the honey in a saucepan for 1 minute, then pour it in a thin stream over the whites while whisking. Keep beating for 3 minutes after all the honey is incorporated.\n\nIn a separate bowl, whisk the yolks with the remaining sugar until foamy. Gradually fold in the whipped whites, then the orange-blossom water, still whisking. Fold in the chopped almonds and pistachios, then the candied fruit. Mix gently.\n\nLightly whip the cream and fold it in quickly.\n\nLine the pan with plastic wrap. Pour in the mixture. Smooth the surface with a spatula. Freeze for at least 12 hours.\n\nTo serve, unmold the frozen nougat onto a serving plate and peel off the plastic wrap. Serve with a red-berry or mango coulis.",
+    "note": "From a torn magazine page (\"Cuisine gourmandise\"), pieced together from several photos of the same page.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "oeuf-legumes-aspic",
+    "title_fr": "Aspic d'oeuf et de légumes",
+    "title_en": "Egg and Vegetable Aspic",
+    "course": "starters",
+    "images": [
+      "images/scans/oeuf-legumes-aspic.jpg"
+    ],
+    "french": "Pour 4 personnes. Durée : 1h15.\n\nIngrédients :\n- 500 g de bouillon (marmite ou autre, au choix)\n- 7 feuilles de gélatine (ou 3 g d'agar-agar)\n- 2 oeufs durs (ou 4 oeufs pochés)\n- 150 g de carottes\n- 150 g de navets\n- 80 g de petits pois\n- 80 g de haricots verts\n\nPréparation :\n1. Préparer tous les ingrédients.\n2. Tailler les carottes et les navets en fine brunoise.\n3. Cuire à l'anglaise, séparément, les haricots verts, les petits pois, les carottes et les navets ; rafraîchir et égoutter chaque légume. Tailler les haricots verts en petits dés.\n4. Mettre à tremper la gélatine dans l'eau froide.\n\n(La suite de la recette — montage et prise en gelée — n'a pas été scannée.)",
+    "english": "Serves 4. Time: 1h15.\n\nIngredients:\n- 500 g broth (your choice)\n- 7 sheets gelatin (or 3 g agar-agar)\n- 2 hard-boiled eggs (or 4 poached eggs)\n- 150 g carrots\n- 150 g turnips\n- 80 g peas\n- 80 g green beans\n\nMethod:\n1. Prepare all the ingredients.\n2. Cut the carrots and turnips into a fine dice.\n3. Blanch the green beans, peas, carrots, and turnips separately, refresh in cold water, and drain each. Finely dice the green beans.\n4. Soak the gelatin in cold water.\n\n(The rest of the recipe — assembling and setting the aspic — wasn't scanned.)",
+    "note": "Printed from a cooking website (meilleurduchef.com); only the first page was captured, so the final assembly steps are missing.",
+    "tags": [
+      "parve"
+    ]
+  },
+  {
+    "slug": "blinis-benoit-castel",
+    "title_fr": "Blinis (Benoît Castel)",
+    "title_en": "Blinis (Benoît Castel)",
+    "course": "starters",
+    "images": [
+      "images/scans/blinis-benoit-castel.jpg"
+    ],
+    "french": "Pour environ 35 blinis.\n\nIngrédients :\n175 gr de farine de sarrazin\n175 gr de farine T45\n5 gr de levure chimique\n500 gr de lait\n75 gr de beurre\n3 oeufs\nUne pincée de sel\nUne pincée de sucre\n\nFaire tiédir le lait avec le beurre.\nMélanger les matières sèches (farines, levure, sel et sucre).\nAjouter le lait, puis les jaunes d'oeufs.\nIncorporer les blancs montés en neige.\nBeurrer légèrement la poêle. Déposer la pâte et cuire les blinis.",
+    "english": "For about 35 blinis.\n\nIngredients:\n175g buckwheat flour\n175g T45 flour\n5g baking powder\n500g milk\n75g butter\n3 eggs\nA pinch of salt\nA pinch of sugar\n\nWarm the milk with the butter.\nMix the dry ingredients (flour, yeast, salt and sugar).\nAdd the milk, then the egg yolks.\nStir in the whisked egg whites.\nLightly butter the blini pan. Put in the dough and cook the blinis.",
+    "note": "From a printed recipe card by Benoît Castel, already bilingual.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "carpe-juive-jeddefesch",
+    "title_fr": "Carpe à la juive (Jeddefesch)",
+    "title_en": "Jewish-Style Carp (Jeddefesch)",
+    "course": "mains",
+    "images": [
+      "images/scans/carpe-juive-jeddefesch.jpg"
+    ],
+    "french": "Alsace. Préparation 20 mn / Cuisson 10 mn.\n\nTrois carpes de 600 g / Quatre gros oignons / Huile 5 cl\nFarine de pain azyme (Matzemehl) 50 g / Persil haché 50 g\nTrois gousses d'ail / Eau 1/2 l / Sel et poivre / Gingembre\n\nLa veille : Écailler et vider les carpes. Les couper en morceaux qu'on salera et que l'on mettra toute une nuit dans une terrine couverte, à température ambiante.\n\nLe lendemain : Hacher les oignons épluchés, mettre l'huile à chauffer, faire colorer légèrement les oignons. Ajouter la farine, la laisser blondir. Verser ensuite l'eau froide, remuer jusqu'à ébullition, y verser alors les morceaux de carpe ainsi que le jus rendu durant la nuit.\n\nVers la mi-cuisson (5 mn environ) mettre le persil haché et assaisonner. (Mettre la tête à cuire en premier, car sa cuisson dure plus longtemps.)\n\nAprès la cuisson, laisser refroidir, puis reconstituer les carpes et les napper de la sauce. Servir froid.",
+    "english": "Alsace. Prep 20 min / Cooking 10 min.\n\nThree 600 g carp / Four large onions / Oil, 5 cl\nMatzo meal 50 g / Chopped parsley 50 g\nThree cloves garlic / Water, 1/2 liter / Salt and pepper / Ginger\n\nThe day before: Scale and gut the carp. Cut into pieces, salt them, and leave covered in a dish overnight at room temperature.\n\nThe next day: Chop the peeled onions, heat the oil, and lightly color the onions. Add the matzo meal and let it turn golden. Pour in the cold water, stir until it boils, then add the pieces of carp along with the juices they released overnight.\n\nAbout halfway through cooking (around 5 min), add the chopped parsley and season. (Cook the head first, since it takes longer.)\n\nOnce cooked, let cool, then reassemble the carp and coat with the sauce. Serve cold.",
+    "note": "From a printed Alsatian regional cookbook page — a different source from any other carpe à la juive on this site; worth comparing if there's overlap.",
+    "tags": [
+      "fish"
+    ]
+  },
+  {
+    "slug": "le-kfil-pessah",
+    "title_fr": "Le Kfil (plat principal marocain de Pessah)",
+    "title_en": "Le Kfil (Moroccan Passover Main Dish)",
+    "course": "mains",
+    "images": [
+      "images/scans/le-kfil-pessah.jpg"
+    ],
+    "french": "Rédigé par Rahel.\n\nIngrédients pour 8 personnes :\n5 branches de cardes\n5 branches de céleri\n300 g de fèves vertes\n1/2 chou blanc\nSel, poivre\n1 c.s. de curcuma\n2 pincées de muscade ou macis\nViande\n5 c.s. d'huile\n\nPréparation :\nCommencer par laver, effiler et vinaigrer les branches de céleri et carde. Laver, vinaigrer et émincer le chou et préparer la viande. Dans une marmite, mettre l'huile, la viande, les légumes ainsi que les épices. Remplir d'eau froide à hauteur et cuire sur feu doux. Laisser mijoter pendant 2 heures ou jusqu'à ce que la viande soit cuite. Ajouter assez d'eau pour que le kfil soit comme une soupe. Au moment de servir, casser les galettes dans un grand récipient et arroser de bouillon. Servir dans un autre grand récipient les légumes et la viande.",
+    "english": "Written by Rahel.\n\nIngredients, serves 8:\n5 stalks Swiss chard\n5 stalks celery\n300 g fava beans\n1/2 head white cabbage\nSalt, pepper\n1 tbsp turmeric\n2 pinches nutmeg or mace\nMeat\n5 tbsp oil\n\nMethod:\nStart by washing, stringing, and dressing with vinegar the celery and chard stalks. Wash, dress with vinegar, and shred the cabbage, and prepare the meat. In a pot, put the oil, the meat, the vegetables, and the spices. Fill with cold water to cover and cook over low heat. Let simmer for 2 hours, or until the meat is cooked through. Add enough water that the kfil is soup-like. To serve, break the flatbreads into a large bowl and ladle the broth over them. Serve the vegetables and meat in a separate large dish.",
+    "note": "A Moroccan Passover dish, from a blog post dated April 2020.",
+    "tags": [
+      "meat",
+      "passover"
+    ]
+  },
+  {
+    "slug": "flans-carottes-parmesan",
+    "title_fr": "Flans carottes et parmesan",
+    "title_en": "Carrot and Parmesan Flans",
+    "course": "starters",
+    "images": [
+      "images/scans/flans-carottes-parmesan.jpg"
+    ],
+    "french": "Préparation 15 mn. Cuisson 15 mn. Temps total 30 mn. Pour 6 personnes.\n\nIngrédients :\n7 carottes\n15 cl de crème liquide\n50 g de beurre fondu\n1 cuillère à café de moutarde\n2 oeufs\n40 g de parmesan\nsel et poivre\n\nPréparation :\n1. Faites bouillir deux litres d'eau salée. Épluchez vos carottes et découpez-les en tranches assez épaisses, mettez-les dans l'eau bouillante et faites cuire pendant 20 minutes.\n2. Une fois cuites, égouttez vos carottes et versez-les dans un mixeur. Ajoutez la crème liquide et le beurre fondu. Mixez bien. Ajoutez ensuite la moutarde, les oeufs, le parmesan, un peu de sel et de poivre. Mixez à nouveau.\n3. Versez la préparation dans des ramequins, vous pouvez saupoudrer un peu de parmesan sur le dessus pour que la préparation gratine.\n\nPour finir : Faites cuire au four à 180°C pendant 15 minutes. Sortez du four et laissez tiédir, puis dégustez !",
+    "english": "Prep 15 min. Cooking 15 min. Total time 30 min. Serves 6.\n\nIngredients:\n7 carrots\n15 cl (scant 2/3 cup) heavy cream\n50 g melted butter\n1 teaspoon mustard\n2 eggs\n40 g Parmesan\nsalt and pepper\n\nMethod:\n1. Bring two liters of salted water to a boil. Peel the carrots and cut into fairly thick slices, add to the boiling water, and cook for 20 minutes.\n2. Once cooked, drain the carrots and put them in a blender. Add the cream and melted butter. Blend well. Then add the mustard, eggs, Parmesan, and a little salt and pepper. Blend again.\n3. Pour the mixture into ramekins — you can sprinkle a little more Parmesan on top so it gratins.\n\nTo finish: Bake at 180°C (350°F) for 15 minutes. Remove from the oven, let cool slightly, and enjoy!",
+    "note": "From Le Journal des Femmes.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "pancakes-benoit-castel",
+    "title_fr": "Pancakes (Benoît Castel)",
+    "title_en": "Pancakes (Benoît Castel)",
+    "course": "desserts",
+    "images": [
+      "images/scans/pancakes-benoit-castel.jpg"
+    ],
+    "french": "Pour environ 35 pancakes.\n\nIngrédients :\n320 gr de farine\n1 gr de sel\n40 gr de sucre semoule\n8 gr de levure chimique\n40 gr de jaunes d'oeufs\n500 gr de lait entier\n70 gr de beurre\nVanille liquide\n90 gr de blancs d'oeufs\n\nMélanger toutes les poudres ensemble dans un récipient (farine, sel, sucre, levures).\nDans une casserole, mélanger les jaunes d'oeufs, le lait et la vanille et faire tiédir en remuant.\nAjouter 1/3 du lait tiédi, le beurre pommade et les jaunes dans le mélange de farine.\nBien mélanger puis ajouter le reste de lait tiède.\nMonter les blancs en neige et les ajouter délicatement.\nBeurrer légèrement la poêle à pancakes.\nDéposer la pâte. Lorsque le pancake est gonflé, le retourner afin de le faire dorer.",
+    "english": "For about 35 pancakes.\n\nIngredients:\n320g flour\n1g salt\n40g caster sugar\n8g baking powder\n40g egg yolks\n500g whole milk\n70g butter\nVanilla essence\n90g egg whites\n\nMix all the powders together in a bowl (flour, salt, sugar, baking powder).\nIn a saucepan, mix the egg yolks, milk and vanilla essence and warm while stirring.\nAdd 1/3 of the warmed milk, softened butter and egg yolks to the flour mixture.\nMix well and then add the rest of the warm milk.\nWhisk the egg whites and add them slowly.\nLightly butter the pancake pan.\nPut in the dough. When the pancake has risen, turn it over to brown it.",
+    "note": "From the same printed recipe card series by Benoît Castel as the blinis, already bilingual.",
+    "tags": [
+      "dairy"
+    ]
+  },
+  {
+    "slug": "tarte-citron-meringue-amande",
+    "title_fr": "Tarte citron meringuée (pâte sablée amande)",
+    "title_en": "Lemon Meringue Tart (Almond Shortcrust)",
+    "course": "desserts",
+    "images": [
+      "images/scans/tarte-citron-meringue-amande.jpg"
+    ],
+    "french": "Pâte sablée amande :\n160 g farine\n23 g amande\n65 g sucre glace\n1 g vanille en poudre\n2 g sel\n95 g beurre\n33 g oeuf\n\nPréparation : Mélanger le beurre ainsi que les oeufs, ajouter ensuite le sucre et continuer à mélanger. Ajouter la poudre d'amande et mélanger et enfin la farine et le sel. Étaler la pâte dans un film alimentaire et placer au frigo au minimum 30 minutes. Étaler à 2 mm et foncer la pâte dans un cercle de 18 ou 20 cm. Mettre au frigo. Pour cuire la pâte, il y a plusieurs possibilités. Pour cuire à blanc il faudra cuire à 160 pendant environ 15-20 minutes.\n\nCrème citron :\n135 g jus de citron\n150 g oeuf\n105 g sucre\n16 g maïzena\n85 g beurre\nZeste de 1 citron\n\nPréparation : Mettre dans une casserole le jus de citron, le sucre, les oeufs, et la maïzena. Démarrer la cuisson et cuire à feu moyen jusqu'à la première bulle. Débarrasser rapidement la préparation, couvrir au contact, et réserver. À 40°C ajouter le beurre et créer une émulsion. Filmer au contact et placer au frigo jusqu'au montage.\n\nMeringue suisse : (quantités non capturées sur ce scan)",
+    "english": "Almond shortcrust pastry:\n160 g flour\n23 g almond (ground)\n65 g powdered sugar\n1 g vanilla powder\n2 g salt\n95 g butter\n33 g egg\n\nMethod: Mix the butter and the eggs, then add the sugar and keep mixing. Add the ground almond and mix, then finally the flour and salt. Wrap the dough in plastic film and refrigerate for at least 30 minutes. Roll out to 2 mm and line an 18 or 20 cm tart ring. Refrigerate. There are several ways to bake the shell; to blind-bake, bake at 160°C for about 15-20 minutes.\n\nLemon cream:\n135 g lemon juice\n150 g egg\n105 g sugar\n16 g cornstarch\n85 g butter\nZest of 1 lemon\n\nMethod: Put the lemon juice, sugar, eggs, and cornstarch in a saucepan. Cook over medium heat until the first bubble. Quickly transfer the mixture, cover with plastic wrap pressed to the surface, and set aside. At 40°C, whisk in the butter to create an emulsion. Cover with plastic wrap pressed to the surface and refrigerate until assembly.\n\nSwiss meringue: (quantities weren't captured on this scan)",
+    "note": "A different lemon meringue tart from the other one already on this site — this version uses an almond shortcrust and Swiss meringue. The meringue quantities weren't captured in the scan.",
+    "tags": [
+      "dairy"
     ]
   }
 ];
