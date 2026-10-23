@@ -41,6 +41,31 @@
       .replace(/>/g, "&gt;");
   }
 
+  function formatRecipeText(text) {
+    var lines = String(text).split("\n");
+    var html = "";
+    var para = [];
+    function flush() {
+      if (para.length) {
+        html += "<p>" + escapeHtml(para.join("\n")) + "</p>";
+        para = [];
+      }
+    }
+    lines.forEach(function (line) {
+      var m = /^##\s+(.+)$/.exec(line.trim());
+      if (m) {
+        flush();
+        html += '<h3 class="recipe-section">' + escapeHtml(m[1]) + "</h3>";
+      } else if (line.trim() === "") {
+        flush();
+      } else {
+        para.push(line);
+      }
+    });
+    flush();
+    return html;
+  }
+
   function suggestMailto(r) {
     var subject = "Chez Mamique - " + r.title_en;
     var body = "Recipe: " + r.title_en + " (" + r.title_fr + ")\n\n" +
@@ -204,8 +229,8 @@
     }
 
     html += '<table class="text-table"><thead><tr><th>French</th><th>English</th></tr></thead><tbody><tr>';
-    html += '<td><p class="recipe-text">' + escapeHtml(r.french) + "</p></td>";
-    html += '<td><p class="recipe-text">' + escapeHtml(r.english) + "</p></td>";
+    html += '<td><div class="recipe-text">' + formatRecipeText(r.french) + "</div></td>";
+    html += '<td><div class="recipe-text">' + formatRecipeText(r.english) + "</div></td>";
     html += "</tr></tbody></table>";
 
     if (r.note) {
