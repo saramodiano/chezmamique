@@ -178,7 +178,6 @@ main#app { min-height: 50vh; }
 
 .intro-box {
   background: var(--cream);
-  border-radius: 12px;
   padding: 18px 22px;
   margin-bottom: 24px;
   font-size: 0.97rem;
@@ -196,7 +195,6 @@ main#app { min-height: 50vh; }
 }
 
 .photo-row img {
-  border-radius: 12px;
   box-shadow: var(--shadow);
   background: #fff;
   height: 220px;
@@ -214,7 +212,6 @@ table.course-table {
 
 table.course-table td {
   background: var(--cream);
-  border-radius: 12px;
   padding: 14px 18px;
   vertical-align: top;
 }
@@ -455,7 +452,7 @@ table.text-table td {
 .lightbox {
   position: fixed;
   inset: 0;
-  background: #17120e;
+  background: #fdfbf8;
   display: flex;
   align-items: center;
   justify-content: center;
